@@ -1,0 +1,73 @@
+Software Requirement Specification
+* Changelog
+| Version Release | Major Changes                   | Date         |
+|-----------------+---------------------------------+--------------|
+|             1.0 | Initial release of the document | Aug 12, 2025 |
+
+* Introduction
+** Purpose
+This SRS describes the functional and non-functional requirements for the StackInfo (SI) webiste.
+** Product Scope
+The SI will measure the frequency of listed stacks and technologies in a job posting for each zipcode.
+* Product Overview
+** Product Perspective
+The SI will allow software developers to determine what stacks are popular in an area. This will help them in deciding which stacks to pursue.
+
+#+BEGIN_SRC plantuml :file ./A-1.png
+  @startuml
+  skinparam AgentBorderThickness 2
+  skinparam shadowing true
+  skinparam defaultTextAlignment center
+  skinparam AgentStereotypeFontSize 14
+  skinparam footerFontSize 15
+  skinparam footerFontColor Black
+  component "**SI**" as si
+  component "Job Sites" as site
+  actor "User" as user
+
+  user -> si : "access"
+  si -> site : "retrieve data"
+
+
+  @enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:./A-1.png]]
+
+** Product Functions
+PF-1: The product shall retrieve computer science job postings. 
+
+PF-2: The product shall rank stacks and technologies by their frequency in job postings within a zipcode, month, and year.
+
+PF-3: The product shall produce a dashboard that displays the stack and technology rankings by zipcode, month, and year.
+** Operating Environment
+OE-1: The SI shall operate correctly with the following web browsers: Firefox 140, Google Chrome 138, and Apple Safari 18.6
+
+OE-2: The SI shall operate correctly for mobile devices and desktop devices.
+** Assumptions and Dependencies
+DE-1: The job sites are accessible for the SI.
+
+AS-1: Job postings for the same job are the same on different sites.
+
+AS-2: Job sites accurately filter job postings by their zipcode.
+
+AS-3: Job sites accurately filter job postings by date.
+* System Features
+** View Stack Rankings for each ZipCode
+*** Description
+The User can search and view each stack ranking for a zipcode. Priority = High
+** Switch from Stack to Technology
+*** Description
+The User can switch from stack to individual technologies. Priority = Medium
+** View Stack Rankings for multiple ZipCodes
+*** Description
+The User can combine stack and technology rankings for multiple zipcodes. Priority = Medium
+* External Interface Requirements
+UI-1: The product shall be accessed through a website.
+
+UI-2: The product shall provide a tool tip to explain how to use the system.
+* Quality Attributes
+** Performance Requirements
+PER-1: The system shall take no longer than 24 hours to process job postings for each month.
+
