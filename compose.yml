@@ -14,7 +14,8 @@ services:
       - .env
 
   web:
-    build: .
+    build:
+      context: ./src/stackinfo-web/
     container_name: stackinfo-web
     ports:
       - "8000:8000"
@@ -33,6 +34,9 @@ services:
       DATABASE_PORT: ${DATABASE_PORT}
     env_file:
       - .env
-
+  scrape:
+    build:
+      context: ./src/stackinfo-scrape/
+    container_name: stacinfo-scrape
 volumes:
   postgres_data:
