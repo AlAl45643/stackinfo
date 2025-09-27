@@ -2,3 +2,4 @@
 **/venv/
 issues.org
 **/_pycache__/
+.env
