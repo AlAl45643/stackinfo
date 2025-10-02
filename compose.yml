@@ -34,9 +34,5 @@ services:
       DATABASE_PORT: ${DATABASE_PORT}
     env_file:
       - .env
-  scrape:
-    build:
-      context: ./src/stackinfo-scrape/
-    container_name: stacinfo-scrape
 volumes:
   postgres_data:
