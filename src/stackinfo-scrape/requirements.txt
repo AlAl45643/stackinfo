@@ -1,3 +1,6 @@
 debugpy==1.8.17
 requests[socks]==2.32.5
+sqlparse==0.5.3
+stem==1.8.2
+psycopg[binary,ppol]==3.2.12
 

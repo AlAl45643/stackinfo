@@ -2,6 +2,7 @@ import requests
 from stem import Signal
 from stem.control import Controller
 import json
+import psycopg as ps
 
 
 def get_tor_session():
@@ -16,7 +17,7 @@ def renew_connection():
         controller.authenticate(password="password")
         controller.signal(Signal.NEWNYM)
 
-
+session = get_tor_session()
 url = "https://emcins.wd5.myworkdayjobs.com/wday/cxs/emcins/EMC_Careers/jobs"
 
 headers = {
@@ -29,20 +30,27 @@ session = get_tor_session()
 response = session.request("POST", url, headers=headers)
 result1 = json.loads(response.text)
 
-url2 = "https://directv.wd1.myworkdayjobs.com/wday/cxs/directv/Careers/jobs"
-headers2 = {
-    "accept": "application/json",
-    "content-type": "application/json",
-    "referer": "https://directv.wd1.myworkdayjobs.com/en-US/Careers/",
-}
-response2 = session.request("POST", url2, headers=headers2)
-result2 = json.loads(response2.text)
+conn = ps.connect(
+    "dbname='dockerdjango' user='dbuser' host='127.0.0.1' password='dbpassword' port='5432'")
+cur = conn.cursor()
 
-url3 = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs"
-headers3 = {
-    "accept": "application/json",
-    "content-type": "application/json",
-    "referer": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral",
-}
-response3 = session.request("POST", url3, headers=headers3)
-result3 = json.loads(response3.text)
+for posting in result1['jobPostings']:
+    remote = posting.get('remoteType', False)
+    if remote:
+        cur.execute(f"SELECT * FROM remote WHERE remote_text = '{remote}';")
+        res = cur.fetchall()
+        if res != []:
+            print(res[0][2])
+        else:
+            print(remote)
+            inp = input("Is this remote (y or n)")
+            if inp == 'y':
+                cur.execute(
+                    "INSERT INTO remote (remote_text, is_remote) VALUES (%s, %s);", (remote, True))
+            else:
+                cur.execute(
+                    "INSERT INTO remote (remote_text, is_remote) VALUES (%s, %s);", (remote, False))
+
+conn.commit()
+cur.close()
+conn.close()
