@@ -26,8 +26,12 @@ def retrieve_json(url, referer, method):
         "content-type": "application/json",
         "referer": f"{referer}",
     }
+    payload = json.dumps({"appliedFacets": {"jobFamilyGroup": ["daccab9f1d25018677ebcc363457460e"], "Location_Country": ["bc33aa3152ec42d4995f4791a106ed09"]},
+                          "limit": 20,
+                          "offset": 0,
+                          "searchText": ""})
     session = get_tor_session()
-    response = session.request(method, url, headers=headers)
+    response = session.request(method, url, headers=headers, data=payload)
     result = json.loads(response.text)
     return result
 
@@ -53,17 +57,17 @@ def is_remote(cur, remote_text):
                 return False
 
 
-def is_location_in_us(city, state):
+def find_location(city, state):
     locations = pd.read_csv("./uscities.csv")
     for i in range(len(locations)):
         cities = locations['city']
         states = locations['admin_name']
         city_regex = re.compile(cities.iloc[i])
         state_regex = re.compile(states.iloc[i])
-        city_res = re.search(city_regex, city)
-        state_res = re.search(state_regex, state)
+        city_res = city == cities.iloc[i]
+        state_res = state == states.iloc[i]
         if city_res and state_res:
-            return True
+            return f"{city}, {state}"
     return False
 
 
@@ -97,8 +101,60 @@ def get_last_link_part(link):
     return res
 
 
+def determine_locations(location_text):
+    locations = []
+    parse_locations = parse_for_locations(location_text)
+    for parse in parse_locations:
+        city, state = split_commas(parse)
+        state = state.strip()
+        city = city.strip()
+        state = ensure_state_full(state)
+        city = str.lower(city)
+        state = str.lower(state)
+        location = find_location(city, state)
+        if location:
+            locations.append(location)
+    return locations
+
+
+def clean_up_tech(tech):
+    cleaned = tech[1:]
+    cleaned = cleaned[:-1]
+    return cleaned
+
+
+def determine_technologies(posting_text):
+    upper_regex = re.compile(r"(?: |\()Go(?: |,|\))|(?: |\()REST(?: |,|\))")
+    lower_regex = re.compile(r"(?: |\()c-sharp(?: |,|\))|(?: |\()c#(?: |,|\))|(?: |\()csharp(?: |,|\))|(?: |\()java(?: |,|\))|(?: |\()kotlin(?: |,|\))|(?: |\()python(?: |,|\))|(?: |\()springboot(?: |,|\))|(?: |\()react(?: |,|\))|(?: |\()postgresql(?: |,|\))|(?: |\()postgre(?: |,|\))|(?: |\()sql(?: |,|\))|(?: |\()kafka(?: |,|\))|(?: |\()javascript(?: |,|\))|(?: |\()typescript(?: |,|\))|(?: |\()swift(?: |,|\))|(?: |\()graphql(?: |,|\))|(?: |\()json(?: |,|\))|(?: |\()ios(?: |,|\))|(?: |\()xcodebuild(?: |,|\))|(?: |\()bash(?: |,|\))|(?: |\()cloudflare(?: |,|\))|(?: |\()pyspark(?: |,|\))|(?: |\()azure(?: |,|\))|(?: |\()aws(?: |,|\))|(?: |\()mysql(?: |,|\))|(?: |\()nosql(?: |,|\))|(?: |\()mongodb(?: |,|\))|(?: |\()snowflake(?: |,|\))|(?: |\()bigquery(?: |,|\))|(?: |\()node\.js(?: |,|\))|(?: |\()nodejs(?: |,|\))|(?: |\()linux(?: |,|\))|(?: |\()docker(?: |,|\))|(?: |\()googlecloud(?: |,|\))|(?: |\()mulesoft(?: |,|\))|(?: |\()html(?: |,|\))|(?: |\()xml(?: |,|\))|(?: |\()redis(?: |,|\))|(?: |\()splunk(?: |,|\))|(?: |\()git(?: |,|\))|(?: |\()jira(?: |,|\))|(?: |\()jenkins(?: |,|\))|(?: |\()kubernetes(?: |,|\))|(?: |\()unix(?: |,|\))(?: |\()figma(?: |,|\))(?: |\()cassandra(?: |,|\))(?: |\()vela(?: |,|\))(?: |\()influxdb(?: |,|\))(?: |\()unix(?: |,|\))(?: |\()logstash(?: |,|\))(?: |\()kibana(?: |,|\))(?: |\()rabbitmq(?: |,|\))(?: |\()ibmmq(?: |,|\))(?: |\()salesforce(?: |,|\))")
+
+    regex_to_tech = {'c-sharp': 'c#', 'csharp': 'c#',
+                     'nodejs': 'node.js', 'postgre': 'postgresql', "Go": 'go', "golang": 'go'}
+
+    upper_matches = re.findall(upper_regex, posting_text)
+    posting_text = str.lower(posting_text)
+    lower_matches = re.findall(lower_regex, posting_text)
+    result = []
+    for match in lower_matches:
+        tech = clean_up_tech(match)
+        translate = regex_to_tech.get(tech, False)
+        if translate:
+            result.append(translate)
+        else:
+            result.append(tech)
+
+    for match in upper_matches:
+        tech = clean_up_tech(match)
+        translate = regex_to_tech.get(tech, False)
+        if translate:
+            result.append(translate)
+        else:
+            result.append(tech)
+
+    return set(result)
+
+
 # url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs"
-# referal = https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral
+# referal = "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral"
 # url = "https://directv.wd1.myworkdayjobs.com/wday/cxs/directv/Careers/jobs"
 # referal = https://directv.wd1.myworkdayjobs.com/en-US/Careers/
 url = "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
@@ -123,42 +179,22 @@ with ps.connect(database) as conn:
 
             location_text = posting_details['jobPostingInfo'].get(
                 'location', False)
-
+            all_locations = []
             if location_text:
-                print(f"posting locations {posting}")
-                parse_locations = parse_for_locations(location_text)
-                for parse in parse_locations:
-                    city, state = split_commas(parse)
-                    state = state.strip()
-                    state = ensure_state_full(state)
-                    city = str.lower(city).strip()
-                    state = str.lower(state).strip()
-                    is_real_location = is_location_in_us(city, state)
-                    if is_real_location:
-                        print(f"location {parse} is real")
-                    else:
-                        print(f"location {parse} is not real")
+                locations = determine_locations(location_text)
+                [all_locations.append(location) for location in locations]
 
             add_locations_text = posting_details['jobPostingInfo'].get(
                 "additionalLocations", False)
-
             if add_locations_text:
-                print(f"posting additional locations {posting}")
-                for location_text in add_locations_text:
-                    parse_locations = parse_for_locations(location_text)
-                    for parse in parse_locations:
-                        city, state = split_commas(parse)
-                        state = state.strip()
-                        state = ensure_state_full(state)
-                        city = str.lower(city).strip()
-                        state = str.lower(state).strip()
-                        is_real_location = is_location_in_us(city, state)
-                        if is_real_location:
-                            print(f"location {parse} is real")
-                        else:
-                            print(f"location {parse} is not real")
+                for add_location in add_locations_text:
+                    add_location = determine_locations(add_location)
+                    [all_locations.append(location)
+                     for location in add_location]
 
-            # locations_text = posting.get('locationsText', False)
-            # # print(parse_for_locations(locations_text),
-            # # f"locationsText: {locations_text}")
-            # conn.commit()
+            posting_text = posting_details['jobPostingInfo'].get(
+                'jobDescription')
+            if posting_text:
+                techs = determine_technologies(posting_text)
+                print(techs)
+            print(all_locations)
