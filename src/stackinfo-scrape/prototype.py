@@ -1,4 +1,5 @@
 import requests
+import time
 from stem import Signal
 from stem.control import Controller
 import json
@@ -20,16 +21,12 @@ def renew_connection():
         controller.signal(Signal.NEWNYM)
 
 
-def retrieve_json(url, referer, method):
+def retrieve_json(url, referer, method, payload):
     headers = {
         "accept": "application/json",
         "content-type": "application/json",
         "referer": f"{referer}",
     }
-    payload = json.dumps({"appliedFacets": {"jobFamilyGroup": ["daccab9f1d25018677ebcc363457460e"], "Location_Country": ["bc33aa3152ec42d4995f4791a106ed09"]},
-                          "limit": 20,
-                          "offset": 0,
-                          "searchText": ""})
     session = get_tor_session()
     response = session.request(method, url, headers=headers, data=payload)
     result = json.loads(response.text)
@@ -58,16 +55,21 @@ def is_remote(cur, remote_text):
 
 
 def find_location(city, state):
+    states = {'alabama', 'alaska', 'american samoa', 'arizona', 'arkansas', 'california', 'colorado', 'connecticut', 'delaware', 'district of columbia', 'florida', 'georgia', 'guam', 'hawaii', 'idaho', 'illinois', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota', 'minor outlying islands', 'mississippi', 'missouri', 'montana',
+              'nebraska', 'nevada', 'new hampshire', 'new jersey', 'new mexico', 'new york', 'north carolina', 'north dakota', 'northern mariana islands', 'ohio', 'oklahoma', 'oregon', 'pennsylvania', 'puerto rico', 'rhode island', 'south carolina', 'south dakota', 'tennessee', 'texas', 'u.s. virgin islands', 'utah', 'vermont', 'virginia', 'washington', 'west virginia', 'wisconsin', 'wyoming'}
+    if state not in states:
+        return False
     locations = pd.read_csv("./uscities.csv")
-    for i in range(len(locations)):
-        cities = locations['city']
-        states = locations['admin_name']
-        city_regex = re.compile(cities.iloc[i])
-        state_regex = re.compile(states.iloc[i])
-        city_res = city == cities.iloc[i]
-        state_res = state == states.iloc[i]
-        if city_res and state_res:
+    left = 0
+    right = len(locations) - 1
+    while left <= right:
+        point = left + (right - left) // 2
+        if locations.iloc[point]['city'] == city:
             return f"{city}, {state}"
+        elif locations.iloc[point]['city'] < city:
+            left = point + 1
+        else:
+            right = point-1
     return False
 
 
@@ -159,42 +161,53 @@ def determine_technologies(posting_text):
 # referal = https://directv.wd1.myworkdayjobs.com/en-US/Careers/
 url = "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
 referal = "https://target.wd5.myworkdayjobs.com/targetcareers"
-job_posting_json = retrieve_json(url, referal, "POST")
+wday_base_url = "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/job/"
 
 database = "dbname='dockerdjango' user='dbuser' host='127.0.0.1' password='dbpassword' port='5432'"
+offset = 0
 with ps.connect(database) as conn:
     with conn.cursor() as cur:
-        wday_base_url = "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/job/"
-        for posting in job_posting_json['jobPostings']:
-            remote_text = posting.get('remoteType', False)
-            if is_remote(cur, remote_text):
-                print(f"Job posting is remote: {remote_text}")
-                continue
+        while True:
+            payload = json.dumps({"appliedFacets": {"jobFamilyGroup": ["daccab9f1d25018677ebcc363457460e"], "Location_Country": ["bc33aa3152ec42d4995f4791a106ed09"]},
+                                  "limit": 20,
+                                  "offset": offset,
+                                  "searchText": ""})
+            job_posting_json = retrieve_json(url, referal, "POST", payload)
+            for posting in job_posting_json['jobPostings']:
+                remote_text = posting.get('remoteType', False)
+                if is_remote(cur, remote_text):
+                    print(f"Job posting is remote: {remote_text}")
+                    continue
 
-            external_path = posting['externalPath']
-            wday_external_url = get_last_link_part(external_path)
-            wday_url = wday_base_url + wday_external_url
-            referal_url = referal + "/details/" + wday_external_url
-            posting_details = retrieve_json(wday_url, referal_url, "GET")
+                external_path = posting['externalPath']
+                wday_external_url = get_last_link_part(external_path)
+                wday_url = wday_base_url + wday_external_url
+                referal_url = referal + "/details/" + wday_external_url
+                posting_details = retrieve_json(
+                    wday_url, referal_url, "GET", None)
 
-            location_text = posting_details['jobPostingInfo'].get(
-                'location', False)
-            all_locations = []
-            if location_text:
-                locations = determine_locations(location_text)
-                [all_locations.append(location) for location in locations]
+                all_locations = []
+                location_text = posting_details['jobPostingInfo'].get(
+                    'location', False)
+                if location_text:
+                    locations = determine_locations(location_text)
+                    [all_locations.append(location) for location in locations]
 
-            add_locations_text = posting_details['jobPostingInfo'].get(
-                "additionalLocations", False)
-            if add_locations_text:
-                for add_location in add_locations_text:
-                    add_location = determine_locations(add_location)
-                    [all_locations.append(location)
-                     for location in add_location]
+                add_locations_text = posting_details['jobPostingInfo'].get(
+                    "additionalLocations", False)
+                if add_locations_text:
+                    for add_location in add_locations_text:
+                        add_location = determine_locations(add_location)
+                        [all_locations.append(location)
+                         for location in add_location]
 
-            posting_text = posting_details['jobPostingInfo'].get(
-                'jobDescription')
-            if posting_text:
-                techs = determine_technologies(posting_text)
-                print(techs)
-            print(all_locations)
+                posting_text = posting_details['jobPostingInfo'].get(
+                    'jobDescription')
+                if posting_text:
+                    techs = determine_technologies(posting_text)
+                    print(techs)
+                print(all_locations)
+            post_count = len(job_posting_json['jobPostings'])
+            if post_count != 20:
+                break
+            offset += 20
