@@ -1,11 +1,11 @@
 import requests
-import time
 from stem import Signal
 from stem.control import Controller
 import json
 import pandas as pd
 import psycopg as ps
 import re
+import datetime as dt
 
 
 def get_tor_session():
@@ -191,37 +191,51 @@ def retrieve_workday_tech(posting):
     return techs
 
 
-# url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs"
-# referal = "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral"
+url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs"
+referal = "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral"
+wday_base_url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/job/"
 # url = "https://directv.wd1.myworkdayjobs.com/wday/cxs/directv/Careers/jobs"
-# referal = https://directv.wd1.myworkdayjobs.com/en-US/Careers/
-url = "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-referal = "https://target.wd5.myworkdayjobs.com/targetcareers"
-wday_base_url = "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/job/"
+# referal = "https://directv.wd1.myworkdayjobs.com/en-US/Careers/"
+# wday_base_url = "https://directv.wd1.myworkdayjobs.com/wday/cxs/directv/Careers/job/"
+# url = "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+# referal = "https://target.wd5.myworkdayjobs.com/targetcareers"
+# wday_base_url = "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/job/"
 
 database = "dbname='dockerdjango' user='dbuser' host='127.0.0.1' password='dbpassword' port='5432'"
 offset = 0
+day_range = dt.timedelta(days=7)
 with ps.connect(database) as conn:
     with conn.cursor() as cur:
         while True:
-            payload = json.dumps({"appliedFacets": {"jobFamilyGroup": ["daccab9f1d25018677ebcc363457460e"], "Location_Country": ["bc33aa3152ec42d4995f4791a106ed09"]},
+            payload = json.dumps({"appliedFacets": {},
                                   "limit": 20,
                                   "offset": offset,
                                   "searchText": ""})
             job_posting_json = retrieve_json(url, referal, "POST", payload)
             for posting in job_posting_json['jobPostings']:
+                posting_details = retrieve_workday_details(
+                    wday_base_url, posting)
+                date = posting_details['jobPostingInfo'].get('startDate', False)
+                current_date = dt.date.today()
+                posting_date = dt.date.fromisoformat(date)
+
+                if date is False:
+                    continue
+                elif current_date - posting_date <= day_range:
+                    continue
+
                 remote_text = posting.get('remoteType', False)
                 if is_remote(cur, remote_text):
                     print(f"Job posting is remote: {remote_text}")
+                    print("--------------------")
                     continue
 
-                posting_details = retrieve_workday_details(
-                    wday_base_url, posting)
                 all_locations = retrieve_workday_locations(posting_details)
                 techs = retrieve_workday_tech(posting_details)
 
                 print(techs)
                 print(all_locations)
+                print("--------------------")
             post_count = len(job_posting_json['jobPostings'])
             if post_count != 20:
                 break
