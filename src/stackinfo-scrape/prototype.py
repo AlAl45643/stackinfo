@@ -155,6 +155,42 @@ def determine_technologies(posting_text):
     return set(result)
 
 
+def retrieve_workday_details(wday_base_url, posting):
+    external_path = posting['externalPath']
+    wday_external_url = get_last_link_part(external_path)
+    wday_url = wday_base_url + wday_external_url
+    referal_url = referal + "/details/" + wday_external_url
+    posting_details = retrieve_json(
+        wday_url, referal_url, "GET", None)
+    return posting_details
+
+
+def retrieve_workday_locations(posting):
+    all_locations = []
+    location_text = posting['jobPostingInfo'].get(
+        'location', False)
+    if location_text:
+        locations = determine_locations(location_text)
+        [all_locations.append(location) for location in locations]
+
+    add_locations_text = posting['jobPostingInfo'].get(
+        "additionalLocations", False)
+    if add_locations_text:
+        for add_location in add_locations_text:
+            add_location = determine_locations(add_location)
+            [all_locations.append(location) for location in add_location]
+    return all_locations
+
+
+def retrieve_workday_tech(posting):
+    techs = {}
+    posting_text = posting['jobPostingInfo'].get(
+        'jobDescription')
+    if posting_text:
+        techs = determine_technologies(posting_text)
+    return techs
+
+
 # url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs"
 # referal = "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral"
 # url = "https://directv.wd1.myworkdayjobs.com/wday/cxs/directv/Careers/jobs"
@@ -179,33 +215,12 @@ with ps.connect(database) as conn:
                     print(f"Job posting is remote: {remote_text}")
                     continue
 
-                external_path = posting['externalPath']
-                wday_external_url = get_last_link_part(external_path)
-                wday_url = wday_base_url + wday_external_url
-                referal_url = referal + "/details/" + wday_external_url
-                posting_details = retrieve_json(
-                    wday_url, referal_url, "GET", None)
+                posting_details = retrieve_workday_details(
+                    wday_base_url, posting)
+                all_locations = retrieve_workday_locations(posting_details)
+                techs = retrieve_workday_tech(posting_details)
 
-                all_locations = []
-                location_text = posting_details['jobPostingInfo'].get(
-                    'location', False)
-                if location_text:
-                    locations = determine_locations(location_text)
-                    [all_locations.append(location) for location in locations]
-
-                add_locations_text = posting_details['jobPostingInfo'].get(
-                    "additionalLocations", False)
-                if add_locations_text:
-                    for add_location in add_locations_text:
-                        add_location = determine_locations(add_location)
-                        [all_locations.append(location)
-                         for location in add_location]
-
-                posting_text = posting_details['jobPostingInfo'].get(
-                    'jobDescription')
-                if posting_text:
-                    techs = determine_technologies(posting_text)
-                    print(techs)
+                print(techs)
                 print(all_locations)
             post_count = len(job_posting_json['jobPostings'])
             if post_count != 20:
