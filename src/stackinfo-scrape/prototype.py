@@ -21,11 +21,10 @@ def renew_connection():
         controller.signal(Signal.NEWNYM)
 
 
-def retrieve_json(url, referer, method, payload):
+def retrieve_json(url, method, payload):
     headers = {
         "accept": "application/json",
         "content-type": "application/json",
-        "referer": f"{referer}",
     }
     session = get_tor_session()
     response = session.request(method, url, headers=headers, data=payload)
@@ -159,9 +158,8 @@ def retrieve_workday_details(wday_base_url, posting):
     external_path = posting['externalPath']
     wday_external_url = get_last_link_part(external_path)
     wday_url = wday_base_url + wday_external_url
-    referal_url = referal + "/details/" + wday_external_url
     posting_details = retrieve_json(
-        wday_url, referal_url, "GET", None)
+        wday_url, "GET", None)
     return posting_details
 
 
@@ -191,9 +189,27 @@ def retrieve_workday_tech(posting):
     return techs
 
 
-url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs"
-referal = "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral"
-wday_base_url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/job/"
+def is_workday_date_within_range(posting_details, timedelta_range):
+    start_date = posting_details['jobPostingInfo'].get('startDate', False)
+    if start_date is False:
+        return False
+
+    current_date = dt.date.today()
+    posting_date = dt.date.fromisoformat(start_date)
+
+    if current_date - posting_date <= timedelta_range:
+        return True
+    else:
+        return False
+
+
+def get_wday_base_url(url):
+    base = url[:-1] + '/'
+    return base
+
+# url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs"
+# referal = "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral"
+# wday_base_url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/job/"
 # url = "https://directv.wd1.myworkdayjobs.com/wday/cxs/directv/Careers/jobs"
 # referal = "https://directv.wd1.myworkdayjobs.com/en-US/Careers/"
 # wday_base_url = "https://directv.wd1.myworkdayjobs.com/wday/cxs/directv/Careers/job/"
@@ -201,42 +217,48 @@ wday_base_url = "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/job/"
 # referal = "https://target.wd5.myworkdayjobs.com/targetcareers"
 # wday_base_url = "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/job/"
 
+
 database = "dbname='dockerdjango' user='dbuser' host='127.0.0.1' password='dbpassword' port='5432'"
 offset = 0
-day_range = dt.timedelta(days=7)
+range = dt.timedelta(days=7)
+
 with ps.connect(database) as conn:
     with conn.cursor() as cur:
-        while True:
-            payload = json.dumps({"appliedFacets": {},
-                                  "limit": 20,
-                                  "offset": offset,
-                                  "searchText": ""})
-            job_posting_json = retrieve_json(url, referal, "POST", payload)
-            for posting in job_posting_json['jobPostings']:
-                posting_details = retrieve_workday_details(
-                    wday_base_url, posting)
-                date = posting_details['jobPostingInfo'].get('startDate', False)
-                current_date = dt.date.today()
-                posting_date = dt.date.fromisoformat(date)
+        cur.execute("SELECT * FROM urls")
+        urls_table = cur.fetchall()
+        urls = [row[0] for row in urls_table]
+        for url in urls:
+            print(url)
+            while True:
+                payload = json.dumps({"appliedFacets": {},
+                                      "limit": 20,
+                                      "offset": offset,
+                                      "searchText": ""})
+                job_posting_json = retrieve_json(url, "POST", payload)
+                for posting in job_posting_json['jobPostings']:
+                    posting_details = retrieve_workday_details(
+                        get_wday_base_url(url), posting)
+                    date = posting_details['jobPostingInfo'].get(
+                        'startDate', False)
+                    current_date = dt.date.today()
+                    posting_date = dt.date.fromisoformat(date)
 
-                if date is False:
-                    continue
-                elif current_date - posting_date <= day_range:
-                    continue
+                    if not is_workday_date_within_range(posting_details, range):
+                        continue
 
-                remote_text = posting.get('remoteType', False)
-                if is_remote(cur, remote_text):
-                    print(f"Job posting is remote: {remote_text}")
+                    remote_text = posting.get('remoteType', False)
+                    if is_remote(cur, remote_text):
+                        print(f"Job posting is remote: {remote_text}")
+                        print("--------------------")
+                        continue
+
+                    all_locations = retrieve_workday_locations(posting_details)
+                    techs = retrieve_workday_tech(posting_details)
+
+                    print(techs)
+                    print(all_locations)
                     print("--------------------")
-                    continue
-
-                all_locations = retrieve_workday_locations(posting_details)
-                techs = retrieve_workday_tech(posting_details)
-
-                print(techs)
-                print(all_locations)
-                print("--------------------")
-            post_count = len(job_posting_json['jobPostings'])
-            if post_count != 20:
-                break
-            offset += 20
+                post_count = len(job_posting_json['jobPostings'])
+                if post_count != 20:
+                    break
+                offset += 20
