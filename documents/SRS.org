@@ -59,15 +59,12 @@ AS-3: Job sites accurately filter job postings by date.
 The User can search and view each stack ranking for a zipcode. Priority = High
 ** Switch from Stack to Technology
 *** Description
-The User can switch from stack to individual technologies. Priority = Medium
+The User can retrieve both stacks and individual technologies. Priority = Medium
 ** View Stack Rankings for multiple ZipCodes
 *** Description
 The User can combine stack and technology rankings for multiple zipcodes. Priority = Medium
 * External Interface Requirements
-UI-1: The product shall be accessed through a website.
-
-UI-2: The product shall provide a tool tip to explain how to use the system.
+UI-1: The product shall be accessed through a REST api.
 * Quality Attributes
 ** Performance Requirements
-PER-1: The system shall take no longer than 24 hours to process job postings for each month.
-
+PER-1: The system shall not take longer than 24 hours for each complete parse in order to not miss job postings.

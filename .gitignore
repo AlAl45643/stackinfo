@@ -5,3 +5,4 @@ issues.org
 .env
 notes.org
 **/tor-browser/
+/src/stackinfo-scrape/__pycache__/
