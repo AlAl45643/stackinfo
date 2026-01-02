@@ -1,7 +1,7 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 **/venv/
 issues.org
-**/_pycache__/
+**/__pycache__/
 .env
 notes.org
 **/tor-browser/

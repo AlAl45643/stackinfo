@@ -26,8 +26,12 @@ def retrieve_links(search, playwright: Playwright, count, offset):
                 urls.append(str.strip(element.text_content()))
             for url in urls:
                 page.goto(f"https://{url}")
-                page.on("request", lambda request: results.append(
-                    request.url) if check_workday_endpoint(str(request)) else None)
+                page.on(
+                    "request",
+                    lambda request: results.append(request.url)
+                    if check_workday_endpoint(str(request))
+                    else None,
+                )
                 page.wait_for_timeout(3000)
         return list(set(results))
     except BaseException as e:

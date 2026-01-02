@@ -1,0 +1,54 @@
+#+BEGIN_SRC plantuml :file ./B-1.png
+  @startuml
+  skinparam AgentBorderThickness 2
+  skinparam shadowing true
+  skinparam defaultTextAlignment center
+  skinparam AgentStereotypeFontSize 14
+  skinparam footerFontSize 15
+  skinparam footerFontColor Black
+
+  entity tech {
+          ,* name
+          --
+          parent_name
+  }
+
+  entity stack_count {
+          ,* primary_key
+          --
+          ,* location
+          ,* count
+  }
+
+  entity tech_stack_count {
+          ,* stack_count_pk
+          ,* tech_name_fk 
+          --
+  }
+
+  entity tech_count {
+          ,* primary_key
+          --
+          ,* tech_name FK
+          ,* location
+          ,* count
+  }
+
+  tech_count ||-- tech
+  tech }o-- tech_count
+
+  tech ||-- tech_stack_count
+  stack_count ||-- tech_stack_count
+  
+  tech_stack_count }|-- tech
+  tech_stack_count 
+
+
+
+
+  center footer "**StackInfo Entity Relationship Diagram**"
+  @enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:./B-1.png]]
