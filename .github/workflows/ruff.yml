@@ -1,7 +1,7 @@
-name: Ruff Actions
+name: ruff-actions
 on: [push]
 jobs:
-  ruff:
+  ruff-check:
   runs-on: ubuntu-latest
   steps:
     - uses: astral-sh/ruff-action@v3
