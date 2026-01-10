@@ -1,9 +1,8 @@
-from sqlalchemy import Text, Integer
+from sqlalchemy import Text
 from sqlalchemy.orm import (
     DeclarativeBase,
     Mapped,
     mapped_column,
-    relationship,
     MappedAsDataclass,
 )
 from enum import Enum
@@ -35,5 +34,3 @@ class GreenhouseURLs(Base):
     __tablename__ = "greenhouse_urls"
 
     url: Mapped[str] = mapped_column(Text(), primary_key=True)
-
-

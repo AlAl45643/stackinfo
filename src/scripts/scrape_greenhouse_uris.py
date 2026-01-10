@@ -4,7 +4,7 @@
 #     "playwright",
 # ]
 # ///
-from playwright.sync_api import sync_playwright, Playwright
+from playwright.sync_api import sync_playwright
 import re
 import sys
 
@@ -16,7 +16,7 @@ def _check_greenhouse_url(url):
 
 
 def _retrieve_endpoints(
-        search_url, playwright, total_cycles, offset, validate_endpoint
+    search_url, playwright, total_cycles, offset, validate_endpoint
 ):
     """Retrieve links from url if valid with validate_endpoint."""
     browser = playwright.chromium.launch(
@@ -30,7 +30,7 @@ def _retrieve_endpoints(
             page.wait_for_timeout(1000)
             # navgiate to next page
             page.click("text='Next'")
-            
+
         for cycles in range(0, total_cycles):
             page.wait_for_timeout(1000)
 
@@ -76,6 +76,3 @@ def main(cycles, offset) -> None:
 
 if __name__ == "__main__":
     main(int(sys.argv[1]), int(sys.argv[2]))
-
-
-

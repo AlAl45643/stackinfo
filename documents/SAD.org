@@ -10,6 +10,7 @@
   entity tech {
           ,* name
           --
+          ,* case_sensitive
           parent_name
   }
 

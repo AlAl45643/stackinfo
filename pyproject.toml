@@ -6,10 +6,13 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "debugpy==1.8.17",
+    "objgraph>=3.6.2",
     "pandas==2.3.3",
     "playwright==1.57.0",
+    "pre-commit>=4.5.1",
     "psycopg2-binary==2.9.11",
     "psycopg[binary,pool]>=3.3.2",
+    "pytest>=9.0.2",
     "requests[socks]==2.32.5",
     "selenium==4.39.0",
     "sqlalchemy==2.0.45",

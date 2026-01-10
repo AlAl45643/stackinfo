@@ -35,7 +35,7 @@ def retrieve_json(url, method, payload):
 
 
 def is_remote(cur, remote_text):
-    if remote_text == False:
+    if not remote_text:
         return False
     cur.execute(f"SELECT * FROM remote WHERE remote_text = '{remote_text}';")
     res = cur.fetchall()

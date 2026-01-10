@@ -4,7 +4,7 @@
 #     "playwright",
 # ]
 # ///
-from playwright.sync_api import sync_playwright, Playwright
+from playwright.sync_api import sync_playwright
 import re
 import sys
 
