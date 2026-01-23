@@ -5,6 +5,25 @@ import re
 import requests
 
 
+# create list stripped
+# loop over techs
+# create string strip equal to tech
+# check if strip[0] is alphanumeric
+# if it is assign strip to strip[1]
+# check if strip[-1] is alphanumeric
+# if it is assign strip to strip[-1]
+# add strip to stripped
+def _strip_techs(techs: list[str]):
+    stripped = []
+    for tech in techs:
+        if not tech[0].isalpha():
+            tech = tech[1:]
+        if not tech[-1].isalpha():
+            tech = tech[:-1]
+        stripped.append(tech)
+    return stripped
+
+
 # get job description
 # find all upper matches in job_post
 # find all lower matches in job_post
@@ -16,6 +35,7 @@ def _retrieve_tech(
     sensitive: re.Pattern[str],
     insensitive: re.Pattern[str],
     synonyms: dict[str, str],
+    parents: dict[str, str],
 ) -> list[str]:
     job_description = job_post["jobPostingInfo"].get("jobDescription", None)
     if job_description is None:
@@ -25,12 +45,26 @@ def _retrieve_tech(
     job_description = str.lower(job_description)
     insensitive_matches = re.findall(insensitive, job_description)
 
-    stripped_sensitive = [tech[1:-1] for tech in sensitive_matches]
-    stripped_insensitive = [tech[1:-1] for tech in insensitive_matches]
+    # loop over sensitive_matches
+    # check if tech[0] is alphanumeric
+    # if it is then modify tech
+
+    stripped_sensitive = _strip_techs(sensitive_matches)
+    stripped_insensitive = _strip_techs(insensitive_matches)
+
     translated_sensitive = [synonyms.get(tech, tech) for tech in stripped_sensitive]
     translated_insensitive = [synonyms.get(tech, tech) for tech in stripped_insensitive]
 
-    return sorted(list(set(translated_sensitive + translated_insensitive)))
+    parents_sensitive = [
+        parents.get(tech) for tech in stripped_sensitive if parents.get(tech)
+    ]
+    parents_insensitive = [
+        parents.get(tech) for tech in stripped_insensitive if parents.get(tech)
+    ]
+    techs_sensitive = translated_sensitive + parents_sensitive
+    techs_insensitive = translated_insensitive + parents_insensitive
+
+    return sorted(list(set(techs_sensitive + techs_insensitive)))
 
 
 def ensure_state_full(state):
@@ -94,14 +128,14 @@ def ensure_state_full(state):
 # lower case city, state
 # return True if location in location_list else False
 def _is_location_in_location_list(
-    location: str, location_list: list[tuple[str, str]]
+    location: str, location_list: list[list[str]]
 ) -> bool:
     city, state = str.split(location, ",")
     city, state = city.strip(), state.strip()
     state = ensure_state_full(state)
     city, state = str.lower(city), str.lower(state)
 
-    return (city, state) in location_list
+    return [city, state] in location_list
 
 
 # create matches list
@@ -114,12 +148,12 @@ def _parse_locations(texts: str | list[str]) -> list[str]:
         texts = [texts]
 
     for text in texts:
-        locations = []
         regex = re.compile(
             r"(?=((?:(?<=\b)(?:[A-Za-z.])+ ){0,3}(?<=\b)(?:[A-Za-z.])+,(?:(?: |)(?:[A-Za-z.])+){1,2}))"
         )
         matches = re.findall(regex, text)
         [locations.append(match) for match in matches]
+        print(locations)
     return locations
 
 
@@ -129,9 +163,7 @@ def _parse_locations(texts: str | list[str]) -> list[str]:
 # parse additional location text
 # add all additional locations in u.s.
 # return locations
-def _retrieve_locations(
-    job_post: dict, location_list: list[tuple[str, str]]
-) -> list[str]:
+def _retrieve_locations(job_post: dict, location_list: list[list[str]]) -> list[str]:
     locations_result = []
 
     location_text = job_post["jobPostingInfo"].get("location", False)
@@ -196,34 +228,35 @@ def _get_last_link_part(link: str) -> str:
 # get job details
 # yield job details
 # return details
-def _request_job_post(url: str, offset: int, request_count: int) -> GeneratorType:
-    session = _get_tor_session()
-    headers = {
-        "accept": "application/json",
-        "content-type": "application/json",
-    }
-    payload = json.dumps(
-        {
-            "appliedFacets": {},
-            "limit": request_count,
-            "offset": offset,
-            "searchText": "",
+def _request_job_post(
+    url: str, offset: int, request_count: int, applied_facets: dict = {}
+) -> GeneratorType:
+    try:
+        session = _get_tor_session()
+        headers = {
+            "accept": "application/json",
+            "content-type": "application/json",
         }
-    )
-    job_sum_request = session.request("POST", url, headers=headers, data=payload)
-    job_sum = json.loads(job_sum_request.text)
-    job_sum_posts = job_sum["jobPostings"]
-    for job_sum in job_sum_posts:
-        if job_sum.get("externalPath", None) is None:
-            yield None
-            continue
-
-        job_post_url = _get_wday_base_url(url) + _get_last_link_part(
-            job_sum["externalPath"]
+        payload = json.dumps(
+            {
+                "appliedFacets": applied_facets,
+                "limit": request_count,
+                "offset": offset,
+                "searchText": "",
+            }
         )
-        job_post_request = session.request("GET", job_post_url, headers=headers)
-        job_post = json.loads(job_post_request.text)
-        yield job_post
+        job_sum_request = session.request("POST", url, headers=headers, data=payload)
+        job_sum = json.loads(job_sum_request.text)
+        job_sum_posts = job_sum["jobPostings"]
+        for job_sum in job_sum_posts:
+            job_post_url = _get_wday_base_url(url) + _get_last_link_part(
+                job_sum["externalPath"]
+            )
+            job_post_request = session.request("GET", job_post_url, headers=headers)
+            job_post = json.loads(job_post_request.text)
+            yield job_post
+    except Exception:
+        yield None
 
 
 # create ({location, stack}: count) dict
@@ -242,10 +275,11 @@ def _request_job_post(url: str, offset: int, request_count: int) -> GeneratorTyp
 def _parse_workday(
     date: dt.date,
     urls: list[str],
-    location_list: list[tuple[str, str]],
+    location_list: list[list[str]],
     sensitive: re.Pattern[str],
     insensitive: re.Pattern[str],
     synonyms: dict[str, str],
+    parents: dict[str, str],
 ) -> tuple[dict[tuple[str, str], int], dict[tuple[str, str], int]]:
     tech_count = {}
     stack_count = {}
@@ -254,11 +288,11 @@ def _parse_workday(
     for uri in urls:
         offset = 0
         while True:
-            print(offset)
             count = 0
             for job_post in _request_job_post(uri, offset, wday_max_job_request_count):
                 if job_post is None:
                     count += 1
+                    print("job_post is None")
                     continue
 
                 if _is_date(job_post, date) is False:
@@ -266,7 +300,9 @@ def _parse_workday(
                     continue
 
                 locations = _retrieve_locations(job_post, location_list)
-                techs = _retrieve_tech(job_post, sensitive, insensitive, synonyms)
+                techs = _retrieve_tech(
+                    job_post, sensitive, insensitive, synonyms, parents
+                )
 
                 if techs == []:
                     count += 1
@@ -291,30 +327,3 @@ def _parse_workday(
                 break
             offset += wday_max_job_request_count
     return (tech_count, stack_count)
-
-
-# import pandas as pd
-
-# csv = pd.read_csv("./uscities.csv")
-# locations = []
-# for row in csv.iterrows():
-#     locations.append((row[1]["city"], row[1]["admin_name"]))
-
-# date = dt.date(2026, 1, 7)
-# urls = [
-#     "https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/risksolutions/jobs",
-# ]
-# remote = set()
-# sensitive = re.compile(r"(?: |\()Go(?: |,|\))|(?: |\()REST(?: |,|\))")
-# insensitive = re.compile(
-#     r"(?: |\()c-sharp(?: |,|\))|(?: |\()c#(?: |,|\))|(?: |\()csharp(?: |,|\))|(?: |\()java(?: |,|\))|(?: |\()kotlin(?: |,|\))|(?: |\()python(?: |,|\))|(?: |\()springboot(?: |,|\))|(?: |\()react(?: |,|\))|(?: |\()postgresql(?: |,|\))|(?: |\()postgre(?: |,|\))|(?: |\()sql(?: |,|\))|(?: |\()kafka(?: |,|\))|(?: |\()javascript(?: |,|\))|(?: |\()typescript(?: |,|\))|(?: |\()swift(?: |,|\))|(?: |\()graphql(?: |,|\))|(?: |\()json(?: |,|\))|(?: |\()ios(?: |,|\))|(?: |\()xcodebuild(?: |,|\))|(?: |\()bash(?: |,|\))|(?: |\()cloudflare(?: |,|\))|(?: |\()pyspark(?: |,|\))|(?: |\()azure(?: |,|\))|(?: |\()aws(?: |,|\))|(?: |\()mysql(?: |,|\))|(?: |\()nosql(?: |,|\))|(?: |\()mongodb(?: |,|\))|(?: |\()snowflake(?: |,|\))|(?: |\()bigquery(?: |,|\))|(?: |\()node\.js(?: |,|\))|(?: |\()nodejs(?: |,|\))|(?: |\()linux(?: |,|\))|(?: |\()docker(?: |,|\))|(?: |\()googlecloud(?: |,|\))|(?: |\()mulesoft(?: |,|\))|(?: |\()html(?: |,|\))|(?: |\()xml(?: |,|\))|(?: |\()redis(?: |,|\))|(?: |\()splunk(?: |,|\))|(?: |\()git(?: |,|\))|(?: |\()jira(?: |,|\))|(?: |\()jenkins(?: |,|\))|(?: |\()kubernetes(?: |,|\))|(?: |\()unix(?: |,|\))(?: |\()figma(?: |,|\))(?: |\()cassandra(?: |,|\))(?: |\()vela(?: |,|\))(?: |\()influxdb(?: |,|\))(?: |\()unix(?: |,|\))(?: |\()logstash(?: |,|\))(?: |\()kibana(?: |,|\))(?: |\()rabbitmq(?: |,|\))(?: |\()ibmmq(?: |,|\))(?: |\()salesforce(?: |,|\))"
-# )
-# synonyms = {
-#     "c-sharp": "c#",
-#     "csharp": "c#",
-#     "nodejs": "node.js",
-#     "postgre": "postgresql",
-#     "Go": "go",
-#     "golang": "go",
-# }
-# print(_parse_workday(date, urls, locations, sensitive, insensitive, synonyms))
