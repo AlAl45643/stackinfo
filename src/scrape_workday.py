@@ -1,8 +1,10 @@
-from types import GeneratorType
+import asyncio
 import datetime as dt
 import json
 import re
-import requests
+
+import aiohttp
+from aiohttp_socks import ProxyConnector
 
 
 # create list stripped
@@ -20,6 +22,7 @@ def _strip_techs(techs: list[str]):
             tech = tech[1:]
         if not tech[-1].isalpha():
             tech = tech[:-1]
+
         stripped.append(tech)
     return stripped
 
@@ -153,7 +156,6 @@ def _parse_locations(texts: str | list[str]) -> list[str]:
         )
         matches = re.findall(regex, text)
         [locations.append(match) for match in matches]
-        print(locations)
     return locations
 
 
@@ -202,12 +204,9 @@ def _is_date(job_post: dict, date: dt.date) -> bool:
         return False
 
 
-def _get_tor_session() -> requests.Session:
-    session = requests.session()
-    session.proxies = {
-        "http": "socks5://127.0.0.1:9050",
-        "https": "socks5://127.0.0.1:9050",
-    }
+def _get_tor_session() -> aiohttp.ClientSession:
+    connector = ProxyConnector.from_url("socks5://127.0.0.1:9050")
+    session = aiohttp.ClientSession(connector=connector)
     return session
 
 
@@ -223,48 +222,119 @@ def _get_last_link_part(link: str) -> str:
     return res
 
 
+# async with tor_sem
+async def _request_job_count(
+    url: str, tor_sem: asyncio.Semaphore, applied_facets: dict = {}
+) -> int:
+    headers = {
+        "accept": "application/json",
+        "content-type": "application/json",
+    }
+    payload = json.dumps(
+        {
+            "appliedFacets": applied_facets,
+            "limit": 20,
+            "offset": 0,
+            "searchText": "",
+        }
+    )
+
+    try:
+        async with tor_sem:
+            async with _get_tor_session() as session:
+                async with session.post(
+                    url, headers=headers, data=payload
+                ) as job_sum_request:
+                    job_sum = json.loads(await job_sum_request.text())
+                    job_count = job_sum["total"]
+                    return job_count
+    except Exception:
+        return 0
+
+
+# def _request_job_details(job_sum_posts: dict)
+# check if externalPath is empty
+# if it is return empty dict
+# context manager for GET request using job_post_url and headers
+# await and json.load job_post_request.text()
+# return job_post
+
+
+async def _request_job_details(
+    url: str, job_sum_post: dict, headers: dict, session: aiohttp.ClientSession
+):
+    external_path = job_sum_post.get("externalPath", None)
+    if external_path is None:
+        return None
+    job_post_url = _get_wday_base_url(url) + _get_last_link_part(
+        job_sum_post["externalPath"]
+    )
+    async with session.get(job_post_url, headers=headers) as job_post_request:
+        job_post = json.loads(await job_post_request.text())
+        return job_post
+
+
+# await tor_sem.aquire()
+# create job_details list
 # request job_summary
 # loop over job summary
-# get job details
-# yield job details
-# return details
-def _request_job_post(
-    url: str, offset: int, request_count: int, applied_facets: dict = {}
-) -> GeneratorType:
-    try:
-        session = _get_tor_session()
-        headers = {
-            "accept": "application/json",
-            "content-type": "application/json",
+# create list of tasks for getting_details of each job_sum
+# loop over getting_details list of tasks
+#  await job_details
+#  add job_details to list
+# return job_details
+# finally tor_sem.release()
+async def _request_job_posts(
+    url: str,
+    offset: int,
+    request_count: int,
+    tor_sem: asyncio.Semaphore,
+    applied_facets: dict = {},
+) -> list[dict]:
+    job_details = []
+    headers = {
+        "accept": "application/json",
+        "content-type": "application/json",
+    }
+    payload = json.dumps(
+        {
+            "appliedFacets": applied_facets,
+            "limit": request_count,
+            "offset": offset,
+            "searchText": "",
         }
-        payload = json.dumps(
-            {
-                "appliedFacets": applied_facets,
-                "limit": request_count,
-                "offset": offset,
-                "searchText": "",
-            }
-        )
-        job_sum_request = session.request("POST", url, headers=headers, data=payload)
-        job_sum = json.loads(job_sum_request.text)
-        job_sum_posts = job_sum["jobPostings"]
-        for job_sum in job_sum_posts:
-            job_post_url = _get_wday_base_url(url) + _get_last_link_part(
-                job_sum["externalPath"]
-            )
-            job_post_request = session.request("GET", job_post_url, headers=headers)
-            job_post = json.loads(job_post_request.text)
-            yield job_post
-    except Exception:
-        yield None
+    )
+    try:
+        async with tor_sem:
+            async with _get_tor_session() as session:
+                async with session.post(
+                    url, headers=headers, data=payload
+                ) as job_sum_request:
+                    job_sum = json.loads(await job_sum_request.text())
+                    job_sum_posts = job_sum["jobPostings"]
+                    job_post_tasks = []
+                    for job_sum_post in job_sum_posts:
+                        task = asyncio.create_task(
+                            _request_job_details(url, job_sum_post, headers, session)
+                        )
+                        job_post_tasks.append(task)
+                    for post_task in job_post_tasks:
+                        post_details = await post_task
+                        job_details.append(post_details)
+        return job_details
+
+    except Exception as e:
+        print(e)
+        return job_details
 
 
+# create start_time
 # create ({location, stack}: count) dict
 # create ({location, tech}: count) dict
 # loop over uris
-# loop over 20 call
-# loop over job posting
-# _request_job_post
+#  loop over 20 call
+#  loop over job posting
+#  _request_job_post
 # _is_date
 # _is_remote
 # call _retrieve_location to retrieve locations
@@ -272,8 +342,20 @@ def _request_job_post(
 # add location: stack count to list for job posting
 # add location: tech count to list for job posting
 # return tech and stack list
-def _parse_workday(
-    date: dt.date,
+
+# assign start time
+# count = 0
+# for task in job_post_tasks
+# ...
+#  count += 1
+#  percent = count/len(job_post_tasks)
+#  total_time = len(job_post_tasks) / count * (current_time - start_time)
+#  time_left = total_time - (current_time - start_time)
+#  print(f"{percent}% - {time_left}hr left")
+
+
+async def parse_workday(
+    date: dt.date | None,
     urls: list[str],
     location_list: list[list[str]],
     sensitive: re.Pattern[str],
@@ -284,46 +366,55 @@ def _parse_workday(
     tech_count = {}
     stack_count = {}
     wday_max_job_request_count = 20
+    job_post_tasks = []
+    job_count_tasks = []
+    tor_sem = asyncio.Semaphore(3)
+    progress_count = 0
 
     for uri in urls:
-        offset = 0
-        while True:
-            count = 0
-            for job_post in _request_job_post(uri, offset, wday_max_job_request_count):
-                if job_post is None:
-                    count += 1
-                    print("job_post is None")
-                    continue
+        task = asyncio.create_task(_request_job_count(uri, tor_sem))
+        job_count_tasks.append((uri, task))
 
-                if _is_date(job_post, date) is False:
-                    count += 1
-                    continue
+    for uri, task in job_count_tasks:
+        count = await task
+        for offset in range(0, count, wday_max_job_request_count):
+            job_post_task = asyncio.create_task(
+                _request_job_posts(uri, offset, wday_max_job_request_count, tor_sem)
+            )
+            job_post_tasks.append(job_post_task)
 
-                locations = _retrieve_locations(job_post, location_list)
-                techs = _retrieve_tech(
-                    job_post, sensitive, insensitive, synonyms, parents
-                )
+    start_time = dt.datetime.now()
+    for task in job_post_tasks:
+        job_posts = await task
+        for job_post in job_posts:
+            if job_post is None:
+                continue
+            if date is not None and _is_date(job_post, date) is False:
+                continue
 
-                if techs == []:
-                    count += 1
-                    continue
-
-                for location in locations:
-                    for tech in techs:
-                        if (location, tech) in tech_count:
-                            tech_count[(location, tech)] += 1
-                        else:
-                            tech_count[(location, tech)] = 1
-
-                for location in locations:
-                    if (location, tuple(techs)) in stack_count:
-                        stack_count[(location, tuple(techs))] += 1
+            locations = _retrieve_locations(job_post, location_list)
+            techs = _retrieve_tech(job_post, sensitive, insensitive, synonyms, parents)
+            if techs == []:
+                continue
+            for location in locations:
+                for tech in techs:
+                    if (location, tech) in tech_count:
+                        tech_count[(location, tech)] += 1
                     else:
-                        stack_count[(location, tuple(techs))] = 1
+                        tech_count[(location, tech)] = 1
+            for location in locations:
+                if (location, tuple(sorted(techs))) in stack_count:
+                    stack_count[(location, tuple(sorted(techs)))] += 1
+                else:
+                    stack_count[(location, tuple(sorted(techs)))] = 1
 
-                count += 1
+        # track completion
+        progress_count += 1
+        total = len(job_post_tasks)
+        percent = round(progress_count / total * 100)
+        current_time = dt.datetime.now()
+        total_time = total / progress_count * (current_time - start_time)
+        remaining_time = total_time - (current_time - start_time)
+        print(f"{percent}% - {remaining_time} remaining")
 
-            if count != wday_max_job_request_count:
-                break
-            offset += wday_max_job_request_count
     return (tech_count, stack_count)
