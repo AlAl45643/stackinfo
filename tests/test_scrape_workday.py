@@ -3,6 +3,8 @@ import json
 import os
 import re
 import pytest
+import subprocess
+import time
 from src.scrape_workday import (
     _request_job_posts,
     _retrieve_locations,
@@ -10,6 +12,21 @@ from src.scrape_workday import (
     parse_workday,
     _request_job_count,
 )
+
+
+@pytest.fixture(scope="module")
+def run_tor():
+    tor = subprocess.Popen(
+        "tor",
+        stdout=open(os.devnull),
+        stderr=open(os.devnull),
+        stdin=open(os.devnull),
+        preexec_fn=os.setpgrp,
+        close_fds=True,
+    )
+    time.sleep(10)
+    yield
+    tor.kill()
 
 
 def test_retrieving_techs():
@@ -468,7 +485,7 @@ def test_retrieving_techs():
 
 
 @pytest.mark.asyncio
-async def test_requesting_workday_payload():
+async def test_requesting_workday_payload(run_tor):
     """Test requesting many workday payloads."""
     urls = [
         "https://roche.wd3.myworkdayjobs.com/wday/cxs/roche/roche-ext/jobs",
@@ -567,7 +584,7 @@ async def count_job_posts(url: str) -> int:
 # create list of tasks to count number of workday job post
 # assert that the number of jobs to number of retrieved posts is equal
 @pytest.mark.asyncio
-async def test_number_of_jobs_retrieved():
+async def test_number_of_jobs_retrieved(run_tor):
     """Test if number of jobs retrieved is equal to number of jobs advertised."""
     url = "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs"
     tor_sem = asyncio.Semaphore(3)
@@ -589,7 +606,7 @@ async def test_number_of_jobs_retrieved():
 # parents = none
 # assert not none
 @pytest.mark.asyncio
-async def test_parse_workday():
+async def test_parse_workday(run_tor):
     """Test if parse_workday function retrieves stack and tech count from ATT."""
     dir_path = os.path.dirname(os.path.realpath(__file__))
     date = None

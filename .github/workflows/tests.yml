@@ -1,0 +1,31 @@
+name: Run all tests 
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  permissions:
+    contents: read
+
+  jobs:
+    test:
+      runs-on: ubuntu-latest
+
+      steps:
+        - uses: actions/checkout@v6
+
+        - name: Install UV
+          uses: astral-sh/setup-uv@v7
+
+        - name: Set up Python
+          run: uv python install
+
+        - name: Install tor
+          run: sudo apt install -y tor
+
+        - name: Install the project
+          run: uv sync --locked --all-extras --dev
+          
+        - name: Run tests
+          run: uv run pytest -vv
