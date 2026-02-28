@@ -15,6 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Check port 9050
+        run: sudo lsof -i:9050
+
       - name: Install UV
         uses: astral-sh/setup-uv@v7
 
