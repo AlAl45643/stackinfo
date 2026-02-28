@@ -27,6 +27,9 @@ jobs:
       - name: Install the project
         run: uv sync --locked --all-extras --dev
 
+      - name: Check port 9050
+        run: sudo lsof -i:9050
+
       - name: Try running tor
         run: tor
 
