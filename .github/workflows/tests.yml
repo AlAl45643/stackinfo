@@ -24,6 +24,9 @@ jobs:
       - name: Install tor
         run: sudo apt install -y tor
 
+      - name: Instal fuser
+        run: sudo apt install -y psmisc
+
       - name: Install the project
         run: uv sync --locked --all-extras --dev
 
