@@ -28,8 +28,7 @@ jobs:
         run: uv sync --locked --all-extras --dev
 
       - name: Free up port 9050
-        run: kill -9 $(lsof -i:9050 -t)
-        continue-on-error: true
+        run: fuser -k -n tcp 9050
 
       - name: Run tests
         run: uv run pytest -vv
