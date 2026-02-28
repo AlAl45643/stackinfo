@@ -27,5 +27,8 @@ jobs:
       - name: Install the project
         run: uv sync --locked --all-extras --dev
 
+      - name: Try running tor
+        run: tor
+
       - name: Run tests
         run: uv run pytest -vv
