@@ -29,6 +29,7 @@ jobs:
 
       - name: Free up port 9050
         run: kill -9 $(lsof -i:9050 -t)
+        continue-on-error: true
 
       - name: Run tests
         run: uv run pytest -vv
