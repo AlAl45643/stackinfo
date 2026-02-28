@@ -15,10 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Check port 9050
-        run: sudo lsof -i:9050
-        continue-on-error: true
-
       - name: Install UV
         uses: astral-sh/setup-uv@v7
 
@@ -31,9 +27,8 @@ jobs:
       - name: Install the project
         run: uv sync --locked --all-extras --dev
 
-      - name: Check port 9050
-        run: sudo lsof -i:9050
-        continue-on-error: true
+      - name: Free up port 9050
+        run: kill -9 $(lsof -i:9050 -t)
 
       - name: Run tests
         run: uv run pytest -vv
