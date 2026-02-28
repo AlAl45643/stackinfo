@@ -15,12 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Check port 9050
+        run: sudo lsof -i:9050
+        continue-on-error: true
 
       - name: Install UV
         uses: astral-sh/setup-uv@v7
-
-      - name: Check port 9050
-        run: sudo lsof -i:9050
 
       - name: Set up Python
         run: uv python install
@@ -33,9 +33,7 @@ jobs:
 
       - name: Check port 9050
         run: sudo lsof -i:9050
-
-      - name: Try running tor
-        run: tor
+        continue-on-error: true
 
       - name: Run tests
         run: uv run pytest -vv
