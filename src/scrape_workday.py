@@ -131,7 +131,7 @@ def ensure_state_full(state):
 # lower case city, state
 # return True if location in location_list else False
 def _is_location_in_location_list(
-    location: str, location_list: list[list[str]]
+    location: str, location_list: list[tuple[str, str]]
 ) -> bool:
     city, state = str.split(location, ",")
     city, state = city.strip(), state.strip()
@@ -165,7 +165,9 @@ def _parse_locations(texts: str | list[str]) -> list[str]:
 # parse additional location text
 # add all additional locations in u.s.
 # return locations
-def _retrieve_locations(job_post: dict, location_list: list[list[str]]) -> list[str]:
+def _retrieve_locations(
+    job_post: dict, location_list: list[tuple[str, str]]
+) -> list[str]:
     locations_result = []
 
     location_text = job_post["jobPostingInfo"].get("location", False)
@@ -357,7 +359,7 @@ async def _request_job_posts(
 async def parse_workday(
     date: dt.date | None,
     urls: list[str],
-    location_list: list[list[str]],
+    location_list: list[tuple[str, str]],
     sensitive: re.Pattern[str],
     insensitive: re.Pattern[str],
     synonyms: dict[str, str],
