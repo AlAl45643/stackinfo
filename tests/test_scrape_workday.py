@@ -5,16 +5,10 @@ import re
 import pytest
 import subprocess
 import time
-from src.scrape_workday import (
-    _request_job_posts,
-    _retrieve_locations,
-    _retrieve_tech,
-    parse_workday,
-    _request_job_count,
-)
+from src.scrape_workday import Scrape
 
 
-@pytest.fixture(scope="module")
+@pytest.fixture()
 def run_tor():
     tor = subprocess.Popen(
         "tor",
@@ -51,10 +45,13 @@ def test_retrieving_techs():
         "mongo db": "mongodb",
     }
     parents = {"jira align": "jira", "jira cloud": "jira"}
+    scrape = Scrape(asyncio.Semaphore(3))
 
     for job_post in response:
-        locations = _retrieve_locations(job_post, location_list)
-        techs = _retrieve_tech(job_post, sensitive, insensitive, synonyms, parents)
+        locations = scrape._retrieve_locations(job_post, location_list)
+        techs = scrape._retrieve_tech(
+            job_post, sensitive, insensitive, synonyms, parents
+        )
 
         for location in locations:
             for tech in techs:
@@ -538,10 +535,10 @@ async def test_requesting_workday_payload(run_tor):
     offset = 0
     request_count = 20
     tasks = []
-    tor_sem = asyncio.Semaphore(3)
+    scrape = Scrape(asyncio.Semaphore(3))
     for uri in urls:
         task = asyncio.create_task(
-            _request_job_posts(uri, offset, request_count, tor_sem), name=uri
+            scrape._request_job_posts(uri, offset, request_count), name=uri
         )
         tasks.append(task)
 
@@ -563,13 +560,23 @@ async def test_requesting_workday_payload(run_tor):
 async def count_job_posts(url: str) -> int:
     count = 0
     job_post_tasks = []
-    tor_sem = asyncio.Semaphore(3)
+    scrape = Scrape(asyncio.Semaphore(3))
 
-    job_count_task = asyncio.create_task(_request_job_count(url, tor_sem))
+    job_count_task = asyncio.create_task(
+        scrape._request_job_count(
+            url,
+        )
+    )
     job_count = await job_count_task
 
     for offset in range(0, job_count, 20):
-        task = asyncio.create_task(_request_job_posts(url, offset, 20, tor_sem))
+        task = asyncio.create_task(
+            scrape._request_job_posts(
+                url,
+                offset,
+                20,
+            )
+        )
         job_post_tasks.append(task)
 
     for task in job_post_tasks:
@@ -587,8 +594,12 @@ async def count_job_posts(url: str) -> int:
 async def test_number_of_jobs_retrieved(run_tor):
     """Test if number of jobs retrieved is equal to number of jobs advertised."""
     url = "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs"
-    tor_sem = asyncio.Semaphore(3)
-    num_listed_task = asyncio.create_task(_request_job_count(url, tor_sem))
+    scrape = Scrape(asyncio.Semaphore(3))
+    num_listed_task = asyncio.create_task(
+        scrape._request_job_count(
+            url,
+        )
+    )
     count_task = asyncio.create_task(count_job_posts(url))
 
     listed_num = await num_listed_task
@@ -606,7 +617,7 @@ async def test_number_of_jobs_retrieved(run_tor):
 # parents = none
 # assert not none
 @pytest.mark.asyncio
-async def test_parse_workday(run_tor):
+async def test_parse_workday():
     """Test if parse_workday function retrieves stack and tech count from ATT."""
     dir_path = os.path.dirname(os.path.realpath(__file__))
     date = None
@@ -628,8 +639,9 @@ async def test_parse_workday(run_tor):
         "mongo db": "mongodb",
     }
     parents = {"jira align": "jira", "jira cloud": "jira"}
+    scrape = Scrape(asyncio.Semaphore(3))
 
-    res = await parse_workday(
+    res = await scrape.parse_workday(
         date, urls, location_list, sensitive, insensitive, synonyms, parents
     )
     assert res[0] != {} and res[1] != {}

@@ -11,28 +11,42 @@
           ,* name
           --
           ,* case_sensitive
-          parent_name
+          
+  }
+
+  entity tech_parent_tech {
+          ,* child_name FK
+          ,* parent_name Fk
+          --
+          
+  }
+
+  entity tech_synonym {
+          ,* name FK
+          ,* alternative_name
   }
 
   entity stack_count {
-          ,* primary_key
+          ,* id
           --
           ,* location
           ,* count
+          ,* date
   }
 
   entity tech_stack_count {
-          ,* stack_count_pk
-          ,* tech_name_fk 
+          ,* stack_count_id FK
+          ,* name FK
           --
   }
 
   entity tech_count {
-          ,* primary_key
+          ,* id 
           --
-          ,* tech_name FK
-          ,* location
-          ,* count
+          ,* name FK
+          ,* location 
+          ,* count 
+          ,* date 
   }
 
   tech_count ||-- tech
@@ -40,9 +54,16 @@
 
   tech ||-- tech_stack_count
   stack_count ||-- tech_stack_count
-  
+
   tech_stack_count }|-- tech
-  tech_stack_count 
+  tech ||-- tech_parent_tech
+  tech ||-- tech_synonym
+  tech_parent_tech }|-- tech
+  tech_synonym }|-- tech
+  tech }o-- tech_synonym
+  tech_synonym ||-- tech
+  tech_stack_count }|-- stack_count
+
 
 
 
