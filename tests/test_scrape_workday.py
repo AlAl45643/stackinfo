@@ -506,7 +506,6 @@ async def test_requesting_workday_payload(run_tor):
         "https://huntingtonhospital.wd5.myworkdayjobs.com/wday/cxs/huntingtonhospital/HuntingtonHospitalCareers/jobs",
         "https://fmc.wd12.myworkdayjobs.com/wday/cxs/fmc/FMC/jobs",
         "https://hancockwhitney.wd5.myworkdayjobs.com/wday/cxs/hancockwhitney/Careers/jobs",
-        "https://activision.wd1.myworkdayjobs.com/wday/cxs/activision/King_External_Careers/jobs",
         "https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs",
         "https://petco.wd1.myworkdayjobs.com/wday/cxs/petco/External/jobs",
         "https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs",

@@ -1,3 +1,4 @@
+from aiohttp_socks._errors import ProxyError
 import asyncio
 import datetime as dt
 import json
@@ -295,14 +296,20 @@ class Scrape:
             external_path
         )
         async with self._get_tor_session() as session:
-            async with session.get(job_post_url, headers=headers) as job_post_request:
-                job_post_text = await job_post_request.text()
-                try:
-                    job_post = json.loads(job_post_text)
-                except JSONDecodeError:
-                    return None
+            try:
+                async with session.get(
+                    job_post_url, headers=headers
+                ) as job_post_request:
+                    job_post_text = await job_post_request.text()
+                    try:
+                        job_post = json.loads(job_post_text)
+                    except JSONDecodeError:
+                        return None
 
-                return job_post
+                    return job_post
+            except ProxyError as e:
+                print(e)
+                return None
 
     # await tor_sem.aquire()
     # create job_details list
@@ -334,27 +341,36 @@ class Scrape:
                 "searchText": "",
             }
         )
-        async with self.tor_sem:
-            async with self._get_tor_session() as session:
-                async with session.post(
-                    url, headers=headers, data=payload
-                ) as job_sum_request:
-                    job_sum_text = await job_sum_request.text()
-                    try:
-                        job_sum = json.loads(job_sum_text)
-                    except JSONDecodeError:
-                        return job_details
+        try:
+            async with self.tor_sem:
+                async with self._get_tor_session() as session:
+                    async with session.post(
+                        url, headers=headers, data=payload
+                    ) as job_sum_request:
+                        job_sum_text = await job_sum_request.text()
+                        try:
+                            job_sum = json.loads(job_sum_text)
+                        except JSONDecodeError:
+                            return job_details
 
-                    job_sum_posts = job_sum["jobPostings"]
-                    job_post_tasks = []
-                    for job_sum_post in job_sum_posts:
-                        task = asyncio.create_task(
-                            self._request_job_details(url, job_sum_post, headers)
-                        )
-                        job_post_tasks.append(task)
-                    for post_task in job_post_tasks:
-                        post_details = await post_task
-                        job_details.append(post_details)
+                        if type(job_sum) is not dict:
+                            return job_details
+                        job_sum_posts = job_sum.get("jobPostings", None)
+                        if job_sum_posts is None:
+                            return job_details
+
+                        job_post_tasks = []
+                        for job_sum_post in job_sum_posts:
+                            task = asyncio.create_task(
+                                self._request_job_details(url, job_sum_post, headers)
+                            )
+                            job_post_tasks.append(task)
+                        for post_task in job_post_tasks:
+                            post_details = await post_task
+                            job_details.append(post_details)
+        except Exception as e:
+            print(e)
+            return job_details
         return job_details
 
     # create start_time
@@ -391,7 +407,10 @@ class Scrape:
         insensitive: re.Pattern[str],
         synonyms: dict[str, str],
         parents: dict[str, str],
-    ) -> tuple[dict[tuple[str, str], int], dict[tuple[str, str], int]]:
+    ) -> tuple[
+        dict[tuple[tuple[str, str], str], int],
+        dict[tuple[tuple[str, str], tuple[str]], int],
+    ]:
         tech_count = {}
         stack_count = {}
         wday_max_job_request_count = 20
@@ -400,9 +419,9 @@ class Scrape:
         progress_count = 0
         tor = subprocess.Popen(
             "tor",
-            stdout=open(os.devnull),
-            stderr=open(os.devnull),
-            stdin=open(os.devnull),
+            stdout=open("torstdout", "w+"),
+            stderr=open("torstderr", "w+"),
+            stdin=open("torstdin", "w+"),
             preexec_fn=os.setpgrp,
             close_fds=True,
         )
