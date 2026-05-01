@@ -12,6 +12,18 @@ services:
       - postgres_data:/var/lib/postgresql/data
     env_file:
       - .env
+  scrape-daily:
+    image: alal45643/stackinfo-scrape:dev
+    build:
+      context: ./
+      dockerfile: ./Dockerfile.scrape
+    environment:
+      DATABASE_CONTAINER_NAME: ${CONTAINER_NAME}
+      DATABASE_USERNAME: ${DATABASE_USERNAME}
+      DATABASE_PASSWORD: ${DATABASE_PASSWORD}
+      DATABASE_NAME: ${DATABASE_NAME}
+
+
 
 volumes:
   postgres_data:
