@@ -1,0 +1,8 @@
+FROM ghcr.io/astral-sh/uv:debian-slim
+ENV PYTHONUNBUFFERED=1 PYTHONDONTWRITEBYTECODE=1
+RUN mkdir /app
+WORKDIR /app
+COPY . .
+RUN apt update
+RUN apt install -y tor
+CMD uv run src/scrape.py "$(date -d "yesterday" +%Y-%m-%d)"
