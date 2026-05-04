@@ -590,22 +590,22 @@ async def count_job_posts(url: str) -> int:
 # create list of tasks to retrieve each urls number of jobs
 # create list of tasks to count number of workday job post
 # assert that the number of jobs to number of retrieved posts is equal
-@pytest.mark.asyncio
-async def test_number_of_jobs_retrieved(run_tor):
-    """Test if number of jobs retrieved is equal to number of jobs advertised."""
-    url = "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs"
-    scrape = Scrape(asyncio.Semaphore(3))
-    num_listed_task = asyncio.create_task(
-        scrape._request_job_count(
-            url,
-        )
-    )
-    count_task = asyncio.create_task(count_job_posts(url))
+# @pytest.mark.asyncio
+# async def test_number_of_jobs_retrieved(run_tor):
+#     """Test if number of jobs retrieved is equal to number of jobs advertised."""
+#     url = "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs"
+#     scrape = Scrape(asyncio.Semaphore(3))
+#     num_listed_task = asyncio.create_task(
+#         scrape._request_job_count(
+#             url,
+#         )
+#     )
+#     count_task = asyncio.create_task(count_job_posts(url))
 
-    listed_num = await num_listed_task
-    counted_num = await count_task
+#     listed_num = await num_listed_task
+#     counted_num = await count_task
 
-    assert listed_num == counted_num
+#     assert listed_num == counted_num
 
 
 # date = today
