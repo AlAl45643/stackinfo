@@ -3,4 +3,6 @@ Description=Run stackinfo scraper
 
 [Service]
 Type=forking
+TimeoutStartSec=5min
 ExecStart=/usr/bin/docker compose --project-directory /home/work/src/stackinfo/ --env-file /home/work/src/stackinfo/.env --file /home/work/src/stackinfo/compose.yml up --build -d
+
