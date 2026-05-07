@@ -39,6 +39,18 @@ class Scrape:
             stripped.append(tech)
         return stripped
 
+    # take list of techs
+    # turn list into a pattern
+    # return pattern
+    def _pattern_techs(self, techs: Sequence[str]):
+        res = ""
+        for tech in techs:
+            res += r"(?: |>|\.|\(|(?<=/))" + tech + r"(?: |>|\.|,|(?=/)|\))"
+            if tech != techs[-1]:
+                res += "|"
+
+        return re.compile(res)
+
     # get job description
     # find all upper matches in job_post
     # find all lower matches in job_post
@@ -48,8 +60,8 @@ class Scrape:
     def _retrieve_tech(
         self,
         job_post: dict,
-        sensitive: re.Pattern[str],
-        insensitive: re.Pattern[str],
+        sensitive: Sequence[str],
+        insensitive: Sequence[str],
         synonyms: dict[str, str],
         parents: dict[str, str],
     ) -> list[str]:
@@ -61,13 +73,12 @@ class Scrape:
         if job_description is None:
             return []
 
-        sensitive_matches = re.findall(sensitive, job_description)
-        job_description = str.lower(job_description)
-        insensitive_matches = re.findall(insensitive, job_description)
+        sensitive_pattern = self._pattern_techs(sensitive)
+        insensitive_pattern = self._pattern_techs(insensitive)
 
-        # loop over sensitive_matches
-        # check if tech[0] is alphanumeric
-        # if it is then modify tech
+        sensitive_matches = re.findall(sensitive_pattern, job_description)
+        job_description = str.lower(job_description)
+        insensitive_matches = re.findall(insensitive_pattern, job_description)
 
         stripped_sensitive = self._strip_techs(sensitive_matches)
         stripped_insensitive = self._strip_techs(insensitive_matches)
@@ -86,7 +97,15 @@ class Scrape:
         techs_sensitive = translated_sensitive + parents_sensitive
         techs_insensitive = translated_insensitive + parents_insensitive
 
-        return sorted(list(set(techs_sensitive + techs_insensitive)))
+        res = sorted(list(set(techs_sensitive + techs_insensitive)))
+
+        # ensure res contains only matches
+        sensitive_set = set(sensitive)
+        insensitive_set = set(insensitive)
+
+        res = [i for i in res if i in sensitive_set or insensitive_set]
+
+        return res
 
     def ensure_state_full(self, state) -> str:
         abrev_to_state = {
@@ -262,20 +281,23 @@ class Scrape:
                 "searchText": "",
             }
         )
+        try:
+            async with self.tor_sem:
+                async with self._get_tor_session() as session:
+                    async with session.post(
+                        url, headers=headers, data=payload
+                    ) as job_sum_request:
+                        job_sum_text = await job_sum_request.text()
+                        try:
+                            job_sum = json.loads(job_sum_text)
+                        except JSONDecodeError:
+                            return 0
 
-        async with self.tor_sem:
-            async with self._get_tor_session() as session:
-                async with session.post(
-                    url, headers=headers, data=payload
-                ) as job_sum_request:
-                    job_sum_text = await job_sum_request.text()
-                    try:
-                        job_sum = json.loads(job_sum_text)
-                    except JSONDecodeError:
-                        return 0
-
-                    job_count = job_sum.get("total", 0)
-                    return job_count
+                        job_count = job_sum.get("total", 0)
+                        return job_count
+        except Exception as e:
+            print(e)
+            return 0
 
     # def _request_job_details(job_sum_posts: dict)
     # check if externalPath is empty
@@ -403,8 +425,8 @@ class Scrape:
         date: dt.date | None,
         urls: Sequence[str],
         location_list: Sequence[tuple[str, str]],
-        sensitive: re.Pattern[str],
-        insensitive: re.Pattern[str],
+        sensitive: Sequence[str],
+        insensitive: Sequence[str],
         synonyms: dict[str, str],
         parents: dict[str, str],
     ) -> tuple[

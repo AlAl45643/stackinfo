@@ -1,7 +1,6 @@
 import asyncio
 import datetime as dt
 import os
-import re
 import sys
 
 from sqlalchemy import create_engine, select
@@ -50,32 +49,18 @@ async def scrape(date: dt.date):
     with Session(engine) as session:
         workday_urls = session.scalars(workday_urls_query).all()
         locations = session.execute(location_query).all()
-        sensitive_list = session.scalars(sensitive_query).all()
-        insensitive_list = session.scalars(insensitive_query).all()
+        sensitive = session.scalars(sensitive_query).all()
+        insensitive = session.scalars(insensitive_query).all()
         synonyms = session.execute(synonym_query).all()
         parents = session.execute(parents_query).all()
 
-    sensitive = ""
-    for s in sensitive_list:
-        sensitive += r"(?: |>|\.|\(|(?<=/))" + s + r"(?: |>|\.|,|(?=/)|\))"
-        if s != sensitive_list[-1]:
-            sensitive += "|"
-    sensitive = re.compile(sensitive)
-
-    insensitive = ""
-    for s in insensitive_list:
-        insensitive += r"(?: |>|\.|\(|(?<=/))" + s + r"(?: |>|\.|,|(?=/)|\))"
-        if s != insensitive_list[-1]:
-            insensitive += "|"
-    insensitive = re.compile(insensitive)
     synonyms = dict(synonyms)
     parents = dict(parents)
-
     scrape = Scrape(asyncio.Semaphore(3))
     task = asyncio.create_task(
         scrape.parse_workday(
             date,
-            workday_urls[0:5],
+            workday_urls,
             locations,
             sensitive,
             insensitive,
