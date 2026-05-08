@@ -53,7 +53,11 @@ class Tech_Parent_Tech(Base):
 class Tech_Synonym(Base):
     __tablename__ = "tech_synonym"
 
-    synonym: Mapped[str] = mapped_column(Text(), primary_key=True)
+    synonym: Mapped[str] = mapped_column(
+        Text(),
+        ForeignKey("tech.name", onupdate="CASCADE", ondelete="CASCADE"),
+        primary_key=True,
+    )
     name: Mapped[str] = mapped_column(
         ForeignKey("tech.name", onupdate="CASCADE", ondelete="CASCADE")
     )

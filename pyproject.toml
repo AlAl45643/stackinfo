@@ -8,6 +8,7 @@ dependencies = [
     "aiohttp>=3.13.3",
     "aiohttp-socks>=0.11.0",
     "debugpy==1.8.17",
+    "fastapi[standard]>=0.136.1",
     "objgraph>=3.6.2",
     "pandas==2.3.3",
     "playwright==1.57.0",
