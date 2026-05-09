@@ -12,6 +12,7 @@ services:
       - postgres_data:/var/lib/postgresql/data
     env_file:
       - .env
+
   scrape-daily:
     image: alal45643/stackinfo-scrape:dev
     build:
@@ -22,6 +23,27 @@ services:
       DATABASE_USERNAME: ${DATABASE_USERNAME}
       DATABASE_PASSWORD: ${DATABASE_PASSWORD}
       DATABASE_NAME: ${DATABASE_NAME}
+    env_file:
+      - .env
+    depends_on:
+      - db
+
+  fastapi:
+    image: alal45643/stackinfo-fastapi:dev
+    build:
+      context: ./
+      dockerfile: ./Dockerfile.fastapi
+    environment:
+      DATABASE_CONTAINER_NAME: ${DATABASE_CONTAINER_NAME}
+      DATABASE_USERNAME: ${DATABASE_USERNAME}
+      DATABASE_PASSWORD: ${DATABASE_PASSWORD}
+      DATABASE_NAME: ${DATABASE_NAME}
+    ports:
+      - "8000:80"
+    env_file:
+      - .env
+    depends_on:
+      - db
 
 
 
