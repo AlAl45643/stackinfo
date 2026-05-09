@@ -99,12 +99,6 @@ class Scrape:
 
         res = sorted(list(set(techs_sensitive + techs_insensitive)))
 
-        # ensure res contains only matches
-        sensitive_set = set(sensitive)
-        insensitive_set = set(insensitive)
-
-        res = [i for i in res if i in sensitive_set or insensitive_set]
-
         return res
 
     def ensure_state_full(self, state) -> str:
@@ -438,7 +432,6 @@ class Scrape:
         wday_max_job_request_count = 20
         job_post_tasks = []
         job_count_tasks = []
-        progress_count = 0
         tor = subprocess.Popen(
             "tor",
             stdout=open("torstdout", "w+"),
@@ -462,7 +455,6 @@ class Scrape:
                     )
                     job_post_tasks.append(job_post_task)
 
-            start_time = dt.datetime.now()
             for task in job_post_tasks:
                 job_posts = await task
                 for job_post in job_posts:
@@ -471,10 +463,13 @@ class Scrape:
                     if date is not None and self._is_date(job_post, date) is False:
                         continue
 
+                    print("job_post: ", job_post)
                     locations = self._retrieve_locations(job_post, location_list)
+                    print("locations: ", locations)
                     techs = self._retrieve_tech(
                         job_post, sensitive, insensitive, synonyms, parents
                     )
+                    print("techs: ", techs)
                     if techs == []:
                         continue
                     for location in locations:
@@ -489,14 +484,6 @@ class Scrape:
                         else:
                             stack_count[(location, tuple(sorted(techs)))] = 1
 
-                # track completion
-                progress_count += 1
-                total = len(job_post_tasks)
-                percent = round(progress_count / total * 100)
-                current_time = dt.datetime.now()
-                total_time = total / progress_count * (current_time - start_time)
-                remaining_time = total_time - (current_time - start_time)
-                print(f"{percent}% - {remaining_time} remaining")
         finally:
             tor.kill()
 
