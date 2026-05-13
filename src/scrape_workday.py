@@ -51,7 +51,16 @@ class Scrape:
 
         return re.compile(res)
 
-    # get job description
+    # take techs
+    # find each tech with period
+    # replace it with \\.
+    # return techs
+    def _replace_period_techs(self, techs: list[str]):
+        for i in range(len(techs)):
+            if "." in techs[i]:
+                techs[i] = techs[i].replace(".", "\\.")
+        return techs
+
     # find all upper matches in job_post
     # find all lower matches in job_post
     # strip whitespace/combiners from all matches
@@ -60,8 +69,8 @@ class Scrape:
     def _retrieve_tech(
         self,
         job_post: dict,
-        sensitive: Sequence[str],
-        insensitive: Sequence[str],
+        sensitive: list[str],
+        insensitive: list[str],
         synonyms: dict[str, str],
         parents: dict[str, str],
     ) -> list[str]:
@@ -73,8 +82,11 @@ class Scrape:
         if job_description is None:
             return []
 
-        sensitive_pattern = self._pattern_techs(sensitive)
-        insensitive_pattern = self._pattern_techs(insensitive)
+        sensitive_period = self._replace_period_techs(sensitive)
+        insensitive_period = self._replace_period_techs(insensitive)
+
+        sensitive_pattern = self._pattern_techs(sensitive_period)
+        insensitive_pattern = self._pattern_techs(insensitive_period)
 
         sensitive_matches = re.findall(sensitive_pattern, job_description)
         job_description = str.lower(job_description)
@@ -419,8 +431,8 @@ class Scrape:
         date: dt.date | None,
         urls: Sequence[str],
         location_list: Sequence[tuple[str, str]],
-        sensitive: Sequence[str],
-        insensitive: Sequence[str],
+        sensitive: list[str],
+        insensitive: list[str],
         synonyms: dict[str, str],
         parents: dict[str, str],
     ) -> tuple[

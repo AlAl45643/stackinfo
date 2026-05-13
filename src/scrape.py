@@ -9,13 +9,13 @@ from sqlalchemy.orm import Session
 from scrape_workday import Scrape
 from sql import (
     Locations,
+    Stack_Count,
     Tech,
+    Tech_Count,
     Tech_Parent_Tech,
+    Tech_Stack_Count,
     Tech_Synonym,
     WorkdayURLs,
-    Tech_Count,
-    Stack_Count,
-    Tech_Stack_Count,
 )
 
 # from scrape_workday import parse_workday
@@ -31,7 +31,7 @@ from sql import (
 # call parse_workday
 # create database
 # store in database
-async def scrape(date: dt.date):
+async def _scrape(date: dt.date):
     user = os.getenv("DATABASE_USERNAME")
     passw = os.getenv("DATABASE_PASSWORD")
     name = os.getenv("DATABASE_NAME")
@@ -62,8 +62,8 @@ async def scrape(date: dt.date):
             date,
             workday_urls,
             locations,
-            sensitive,
-            insensitive,
+            list(sensitive),
+            list(insensitive),
             synonyms,
             parents,
         )
@@ -110,7 +110,7 @@ async def scrape(date: dt.date):
 
 
 def main(date: dt.date) -> None:
-    return asyncio.run(scrape(date))
+    return asyncio.run(_scrape(date))
 
 
 if __name__ == "__main__":

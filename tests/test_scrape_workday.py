@@ -244,7 +244,6 @@ def test_retrieving_techs():
         (("plano", "texas"), "kubernetes"): 1,
         (("plano", "texas"), "aws"): 1,
         (("plano", "texas"), "azure"): 1,
-        (("plano", "texas"), "bootstrap.js"): 1,
         (("plano", "texas"), "cassandra"): 1,
         (("plano", "texas"), "redis"): 1,
         (("plano", "texas"), "spring boot"): 1,
@@ -493,7 +492,6 @@ def test_retrieving_techs():
                 sorted(
                     [
                         "aws",
-                        "bootstrap.js",
                         "kubernetes",
                         "react.js",
                         "java",
