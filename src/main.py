@@ -1,4 +1,3 @@
-import json
 import datetime as dt
 import os
 from fastapi import FastAPI
@@ -139,7 +138,6 @@ SELECT agg.stack, SUM(stack.count) count,
                 "p_year": p_year,
                 "p_month": p_month,
                 "city": city,
-                "city": city,
                 "state": state,
                 "year": year,
                 "month": month,
@@ -149,7 +147,7 @@ SELECT agg.stack, SUM(stack.count) count,
     result = _combine_stacks(result, percent)
     result = [[i[0], i[1], 0 if i[2] == 0 else i[1] - i[2]] for i in result]
     result.sort(key=lambda i: i[1], reverse=True)
-    return json.dumps(result)
+    return result
 
 
 # query database
@@ -202,7 +200,6 @@ SELECT tech.name, SUM(tech.count) count, dense_rank() over (ORDER BY SUM(tech.co
                 "p_year": p_year,
                 "p_month": p_month,
                 "city": city,
-                "city": city,
                 "state": state,
                 "year": year,
                 "month": month,
@@ -210,4 +207,4 @@ SELECT tech.name, SUM(tech.count) count, dense_rank() over (ORDER BY SUM(tech.co
         )
     result = [list(i) for i in result]
     result.sort(key=lambda i: i[1], reverse=True)
-    return json.dumps(result)
+    return result
