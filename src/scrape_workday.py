@@ -30,10 +30,11 @@ class Scrape:
     # add strip to stripped
     def _strip_techs(self, techs: list[str]):
         stripped = []
+        strip = {" ", "<", ".", "(", "/", ">", ",", ")"}
         for tech in techs:
-            if not tech[0].isalpha():
+            if tech[0] in strip:
                 tech = tech[1:]
-            if not tech[-1].isalpha():
+            if tech[-1] in strip:
                 tech = tech[:-1]
 
             stripped.append(tech)
@@ -45,7 +46,7 @@ class Scrape:
     def _pattern_techs(self, techs: Sequence[str]):
         res = ""
         for tech in techs:
-            res += r"(?: |>|\.|\(|(?<=/))" + tech + r"(?: |>|\.|,|(?=/)|\))"
+            res += r"(?: |<|>|\.|\(|(?<=/))" + tech + r"(?: |<|>|\.|,|(?=/)|\))"
             if tech != techs[-1]:
                 res += "|"
 
