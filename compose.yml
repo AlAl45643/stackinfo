@@ -30,6 +30,7 @@ services:
 
   fastapi:
     image: alal45643/stackinfo-fastapi:dev
+    container_name: api
     build:
       context: ./
       dockerfile: ./Dockerfile.fastapi
@@ -45,6 +46,24 @@ services:
     depends_on:
       - db
 
+  report:
+    image: alal45643/stackinfo-report:dev
+    build:
+      context: ./
+      dockerfile: ./Dockerfile.report
+    environment:
+      DATABASE_CONTAINER_NAME: ${DATABASE_CONTAINER_NAME}
+      DATABASE_USERNAME: ${DATABASE_USERNAME}
+      DATABASE_PASSWORD: ${DATABASE_PASSWORD}
+      DATABASE_NAME: ${DATABASE_NAME}
+      FASTAPI_CONTAINER_NAME: ${FASTAPI_CONTAINER_NAME}
+    env_file:
+      - .env
+    depends_on:
+      - db
+      - fastapi
+    volumes:
+      - ${HOME}/src/stackinfo/reports/:/app/reports/
 
 
 volumes:
