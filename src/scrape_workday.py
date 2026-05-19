@@ -8,7 +8,7 @@ import subprocess
 import time
 from collections.abc import Sequence
 from json.decoder import JSONDecodeError
-from typing import Literal
+from typing import Literal, Pattern
 
 import aiohttp
 from aiohttp_socks import ProxyConnector
@@ -20,15 +20,7 @@ class Scrape:
     def __init__(self, tor_sem: asyncio.Semaphore):
         self.tor_sem = tor_sem
 
-    # create list stripped
-    # loop over techs
-    # create string strip equal to tech
-    # check if strip[0] is alphanumeric
-    # if it is assign strip to strip[1]
-    # check if strip[-1] is alphanumeric
-    # if it is assign strip to strip[-1]
-    # add strip to stripped
-    def _strip_techs(self, techs: list[str]):
+    def _strip_techs(self, techs: list[str]) -> list[str]:
         stripped = []
         strip = {" ", ".", "(", "/", ",", ")"}
         for tech in techs:
@@ -40,10 +32,7 @@ class Scrape:
             stripped.append(tech)
         return stripped
 
-    # take list of techs
-    # turn list into a pattern
-    # return pattern
-    def _pattern_techs(self, techs: Sequence[str]):
+    def _pattern_techs(self, techs: list[str]) -> Pattern:
         res = ""
         for tech in techs:
             res += r"(?: |\(|(?<=/))" + tech + r"(?: |\.|,|(?=/)|\))"
@@ -52,21 +41,12 @@ class Scrape:
 
         return re.compile(res)
 
-    # take techs
-    # find each tech with period
-    # replace it with \\.
-    # return techs
-    def _replace_period_techs(self, techs: list[str]):
+    def _replace_period_techs(self, techs: list[str]) -> list[str]:
         for i in range(len(techs)):
             if "." in techs[i]:
                 techs[i] = techs[i].replace(".", "\\.")
         return techs
 
-    # find all upper matches in job_post
-    # find all lower matches in job_post
-    # strip whitespace/combiners from all matches
-    # translate matches using synonym tech dict
-    # return set(matches)
     def _retrieve_tech(
         self,
         job_post: dict,
@@ -198,10 +178,6 @@ class Scrape:
         full_state = abrev_to_state.get(state, state)
         return full_state
 
-    # strip city, state
-    # ensure state full
-    # lower case city, state
-    # return True if location in location_list else False
     def _is_location_in_location_list(
         self, location: str, location_list: Sequence[tuple[str, str]]
     ) -> tuple[str, str] | Literal[False]:
@@ -212,10 +188,6 @@ class Scrape:
 
         return (city, state) if (city, state) in location_list else False
 
-    # create matches list
-    # if parse locations is str then make it into a list
-    # loop over each str and find matches
-    # add matches to list
     def _parse_locations(self, texts: str | list[str]) -> list[str]:
         locations = []
         if type(texts) is str:
@@ -229,12 +201,6 @@ class Scrape:
             [locations.append(match) for match in matches]
         return locations
 
-    # create locations
-    # parse all locations in location text
-    # add all locations in u.s.
-    # parse additional location text
-    # add all additional locations in u.s.
-    # return locations
     def _retrieve_locations(
         self, job_post: dict, location_list: Sequence[tuple[str, str]]
     ) -> list[str]:
@@ -266,12 +232,6 @@ class Scrape:
 
         return locations_result
 
-    # first get the start date
-    # return false if date is false
-    # convert rate
-    # check if date is today
-    # if it is retun true
-    # else return false
     def _is_date(self, job_post: dict, date: dt.date) -> bool:
         job_post_info = job_post.get("jobPostingInfo", False)
         if job_post_info is False:
@@ -300,10 +260,11 @@ class Scrape:
     def _get_last_link_part(self, link: str) -> str:
         regex = re.compile(r"[^/]+(?=$)")
         match = re.search(regex, link)
-        res = match.group(0)
+        res = ""
+        if match:
+            res = match.group(0)
         return res
 
-    # async with tor_sem
     async def _request_job_count(self, url: str, applied_facets: dict = {}) -> int:
         headers = {
             "accept": "application/json",
@@ -335,18 +296,9 @@ class Scrape:
             print(e)
             return 0
 
-    # def _request_job_details(job_sum_posts: dict)
-    # check if externalPath is empty
-    # if it is return empty dict
-    # context manager for GET request using job_post_url and headers
-    # await and json.load job_post_request.text()
-    # return job_post
-
-    # tor semaphore
-    # create tor session
-    # .....
-
-    async def _request_job_details(self, url: str, job_sum_post: dict, headers: dict):
+    async def _request_job_details(
+        self, url: str, job_sum_post: dict, headers: dict
+    ) -> dict | None:
         external_path = job_sum_post.get("externalPath", None)
         if external_path is None:
             return None
@@ -369,16 +321,6 @@ class Scrape:
                 print(e)
                 return None
 
-    # await tor_sem.aquire()
-    # create job_details list
-    # request job_summary
-    # loop over job summary
-    # create list of tasks for getting_details of each job_sum
-    # loop over getting_details list of tasks
-    #  await job_details
-    #  add job_details to list
-    # return job_details
-    # finally tor_sem.release()
     async def _request_job_posts(
         self,
         url: str,
@@ -430,31 +372,6 @@ class Scrape:
             print(e)
             return job_details
         return job_details
-
-    # create start_time
-    # create ({location, stack}: count) dict
-    # create ({location, tech}: count) dict
-    # loop over uris
-    #  loop over 20 call
-    #  loop over job posting
-    #  _request_job_post
-    # _is_date
-    # _is_remote
-    # call _retrieve_location to retrieve locations
-    # call _retrieve_tech to retrieve tech count and stack
-    # add location: stack count to list for job posting
-    # add location: tech count to list for job posting
-    # return tech and stack list
-
-    # assign start time
-    # count = 0
-    # for task in job_post_tasks
-    # ...
-    #  count += 1
-    #  percent = count/len(job_post_tasks)
-    #  total_time = len(job_post_tasks) / count * (current_time - start_time)
-    #  time_left = total_time - (current_time - start_time)
-    #  print(f"{percent}% - {time_left}hr left")
 
     async def parse_workday(
         self,

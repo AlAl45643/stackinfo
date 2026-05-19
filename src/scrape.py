@@ -1,9 +1,10 @@
+from typing import Sequence, cast
 import asyncio
 import datetime as dt
 import os
 import sys
 
-from sqlalchemy import create_engine, select
+from sqlalchemy import create_engine, select, Engine
 from sqlalchemy.orm import Session
 
 from scrape_workday import Scrape
@@ -18,20 +19,8 @@ from sql import (
     WorkdayURLs,
 )
 
-# from scrape_workday import parse_workday
 
-
-# get date
-# get location_list
-# get sensitive
-# get insensitive
-# get synonyms
-# get parents
-# get workday uris
-# call parse_workday
-# create database
-# store in database
-async def _scrape(date: dt.date):
+def _create_engine() -> Engine:
     user = os.getenv("DATABASE_USERNAME")
     passw = os.getenv("DATABASE_PASSWORD")
     name = os.getenv("DATABASE_NAME")
@@ -39,7 +28,19 @@ async def _scrape(date: dt.date):
     engine = create_engine(
         f"postgresql+psycopg2://{user}:{passw}@{container}:5432/{name}"
     )
+    return engine
 
+
+def _query_scrape_params(
+    engine: Engine,
+) -> tuple[
+    Sequence[str],
+    Sequence[tuple[str, str]],
+    list[str],
+    list[str],
+    dict[str, str],
+    dict[str, str],
+]:
     workday_urls_query = select(WorkdayURLs.url)
     location_query = select(Locations.city, Locations.state)
     sensitive_query = select(Tech.name).where(Tech.case_sensitive == True)
@@ -54,28 +55,24 @@ async def _scrape(date: dt.date):
         synonyms = session.execute(synonym_query).all()
         parents = session.execute(parents_query).all()
 
+    locations = cast(Sequence[tuple[str, str]], locations)
+    synonyms = cast(Sequence[tuple[str, str]], synonyms)
+    parents = cast(Sequence[tuple[str, str]], parents)
+
+    sensitive = list(sensitive)
+    insensitive = list(insensitive)
     synonyms = dict(synonyms)
     parents = dict(parents)
-    scrape = Scrape(asyncio.Semaphore(3))
-    task = asyncio.create_task(
-        scrape.parse_workday(
-            date,
-            workday_urls,
-            locations,
-            list(sensitive),
-            list(insensitive),
-            synonyms,
-            parents,
-        )
-    )
-    res = await task
+    return (workday_urls, locations, sensitive, insensitive, synonyms, parents)
 
+
+def _export_results(
+    engine: Engine,
+    date: dt.date,
+    techs: dict[tuple[tuple[str, str], str], int],
+    stacks: dict[tuple[tuple[str, str], tuple[str]], int],
+) -> None:
     with Session(engine) as session:
-        techs = res[0]
-        stacks = res[1]
-
-        # create tech_count
-        # add tech_count to session
         for key, count in techs.items():
             tech = key[1]
             city = key[0][0]
@@ -106,10 +103,45 @@ async def _scrape(date: dt.date):
 
         session.commit()
 
-    return res
+
+async def _scrape(
+    date: dt.date,
+) -> tuple[
+    dict[tuple[tuple[str, str], str], int],
+    dict[tuple[tuple[str, str], tuple[str]], int],
+]:
+    engine = _create_engine()
+
+    workday_urls, locations, sensitive, insensitive, synonyms, parents = (
+        _query_scrape_params(engine)
+    )
+
+    scrape = Scrape(asyncio.Semaphore(3))
+    task = asyncio.create_task(
+        scrape.parse_workday(
+            date,
+            workday_urls,
+            locations,
+            sensitive,
+            insensitive,
+            synonyms,
+            parents,
+        )
+    )
+
+    techs, stacks = await task
+
+    _export_results(engine, date, techs, stacks)
+
+    return (techs, stacks)
 
 
-def main(date: dt.date) -> None:
+def main(
+    date: dt.date,
+) -> tuple[
+    dict[tuple[tuple[str, str], str], int],
+    dict[tuple[tuple[str, str], tuple[str]], int],
+]:
     return asyncio.run(_scrape(date))
 
 

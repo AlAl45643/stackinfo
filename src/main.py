@@ -108,8 +108,6 @@ SELECT agg.stack, SUM(stack.count) count
     return result
 
 
-# query database
-# return as json
 @app.get("/reports/tech")
 async def view_tech_report(
     date: dt.date = dt.date(2026, 5, 3), city: str = "atlanta", state: str = "georgia"
