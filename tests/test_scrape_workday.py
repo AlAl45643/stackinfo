@@ -750,3 +750,61 @@ async def test_parse_workday():
         date, urls, location_list, sensitive, insensitive, synonyms, parents
     )
     assert res[0] != {} and res[1] != {}
+
+
+def test_retrieve_tech():
+    scrape = Scrape(asyncio.Semaphore(3))
+    res = scrape._retrieve_tech(
+        {"jobPostingInfo": {"jobDescription": " sql "}}, ["R"], ["sql"], {}, {}
+    )
+    assert res == ["sql"]
+
+
+def test_retrieve_tech_dot():
+    scrape = Scrape(asyncio.Semaphore(3))
+    res = scrape._retrieve_tech(
+        {"jobPostingInfo": {"jobDescription": " .net "}}, ["R"], [".net"], {}, {}
+    )
+    assert res == [".net"]
+
+
+def test_retrieve_tech_edges():
+    scrape = Scrape(asyncio.Semaphore(3))
+    res = scrape._retrieve_tech(
+        {
+            "jobPostingInfo": {
+                "jobDescription": " sql. python, (c#, .net/postgresql/fastapi)"
+            }
+        },
+        ["R"],
+        ["sql", ".net", "c#", "python", "postgresql", "fastapi"],
+        {},
+        {},
+    )
+    assert sorted(res) == sorted(
+        ["sql", ".net", "c#", "python", "postgresql", "fastapi"]
+    )
+
+
+def test_retrieve_tech_synonyms():
+    scrape = Scrape(asyncio.Semaphore(3))
+    res = scrape._retrieve_tech(
+        {"jobPostingInfo": {"jobDescription": " csharp "}},
+        ["R"],
+        ["c#", "csharp"],
+        {"csharp": "c#"},
+        {},
+    )
+    assert res == ["c#"]
+
+
+def test_retrieve_tech_parent():
+    scrape = Scrape(asyncio.Semaphore(3))
+    res = scrape._retrieve_tech(
+        {"jobPostingInfo": {"jobDescription": " postgresql "}},
+        ["R"],
+        ["postgresql", "sql"],
+        {},
+        {"postgresql": "sql"},
+    )
+    assert res == ["postgresql", "sql"]

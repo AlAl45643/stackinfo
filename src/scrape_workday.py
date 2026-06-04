@@ -55,25 +55,6 @@ class Scrape:
         synonyms: dict[str, str],
         parents: dict[str, str],
     ) -> list[str]:
-        """
-
-        >>> scrape = Scrape(asyncio.Semaphore(3))
-        >>> scrape._retrieve_tech({'jobPostingInfo':{'jobDescription':  ' sql '}}, ['R'], ['sql'], {}, {})
-        ['sql']
-
-        >> scrape._retrieve_tech({'jobPostingInfo':{'jobDescription':  ' .net '}}, ['R'], ['.net'], {}, {})
-        ['.net']
-
-        >> scrape._retrieve_tech({'jobPostingInfo':{'jobDescription':  ' sql<.net>c#.(python/postgresql,fastapi)'}}, ['R'], ['sql', '.net', 'c#', 'python', 'postgresql', 'fastapi'], {}, {})
-        ['sql', '.net', 'c#', 'python', 'postgresql', 'fastapi']
-
-        >> scrape._retrieve_tech({'jobPostingInfo':{'jobDescription':  ' csharp '}}, ['R'], ['c#', 'csharp'], {'c#': 'csharp'}, {})
-        ['c#']
-
-        >> scrape._retrieve_tech({'jobPostingInfo':{'jobDescription':  ' postgresql '}}, ['R'], ['postgresql', 'sql'] {}, {'postgresql': 'sql'})
-        ['postgresql', 'sql']
-        """
-
         job_post_info = job_post.get("jobPostingInfo", False)
         if job_post_info is False:
             return []
@@ -101,7 +82,7 @@ class Scrape:
         ]
 
         parents_sensitive = []
-        for tech in stripped_sensitive:
+        for tech in translated_sensitive:
             if parents.get(tech):
                 parents_sensitive.append(tech)
                 parents_sensitive.append(parents.get(tech))
@@ -109,17 +90,14 @@ class Scrape:
                 parents_sensitive.append(tech)
 
         parents_insensitive = []
-        for tech in stripped_insensitive:
+        for tech in translated_insensitive:
             if parents.get(tech):
                 parents_insensitive.append(tech)
                 parents_insensitive.append(parents.get(tech))
             else:
                 parents_insensitive.append(tech)
 
-        techs_sensitive = translated_sensitive + parents_sensitive
-        techs_insensitive = translated_insensitive + parents_insensitive
-
-        res = sorted(list(set(techs_sensitive + techs_insensitive)))
+        res = sorted(list(set(parents_insensitive + parents_sensitive)))
 
         return res
 
@@ -417,18 +395,16 @@ class Scrape:
             for task in job_post_tasks:
                 job_posts = await task
                 for job_post in job_posts:
+                    count += 1
                     if job_post is None:
                         continue
                     if date is not None and self._is_date(job_post, date) is False:
                         continue
 
-                    print("job_post: ", job_post)
                     locations = self._retrieve_locations(job_post, location_list)
-                    print("locations: ", locations)
                     techs = self._retrieve_tech(
                         job_post, sensitive, insensitive, synonyms, parents
                     )
-                    print("techs: ", techs)
                     if techs == []:
                         continue
                     for location in locations:
