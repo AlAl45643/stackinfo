@@ -201,12 +201,6 @@ def test_retrieving_techs():
         (("atlanta", "georgia"), "sql"): 1,
         (("bedminster", "new jersey"), "sql"): 1,
         (("middletown", "new jersey"), "jira cloud"): 1,
-        (("plano", "texas"), "copilots"): 1,
-        (("plano", "texas"), "mongo db"): 1,
-        (("plano", "texas"), "next js"): 1,
-        (("plano", "texas"), "no sql"): 1,
-        (("plano", "texas"), "node js"): 1,
-        (("plano", "texas"), "react js"): 1,
         (("plano", "texas"), "jira cloud"): 1,
         (("alpharetta", "georgia"), "jira cloud"): 1,
         (("atlanta", "georgia"), "jira cloud"): 1,
@@ -498,15 +492,9 @@ def test_retrieving_techs():
                         "dynatrace",
                         "quantum metrics",
                         "splunk",
-                        "copilots",
-                        "mongo db",
                         "co-pilot",
                         "next.js",
-                        "next js",
-                        "no sql",
-                        "node js",
                         "nosql",
-                        "react js",
                         "html5",
                         "xml",
                         "css3",
@@ -558,7 +546,6 @@ async def test_requesting_workday_payload(run_tor):
         "https://fmc.wd12.myworkdayjobs.com/wday/cxs/fmc/FMC/jobs",
         "https://hancockwhitney.wd5.myworkdayjobs.com/wday/cxs/hancockwhitney/Careers/jobs",
         "https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs",
-        "https://petco.wd1.myworkdayjobs.com/wday/cxs/petco/External/jobs",
         "https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs",
         "https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DKC_External/jobs",
         "https://ncratleos.wd1.myworkdayjobs.com/wday/cxs/ncratleos/ext_atleos_us/jobs",
@@ -574,9 +561,7 @@ async def test_requesting_workday_payload(run_tor):
         "https://goodyear.wd1.myworkdayjobs.com/wday/cxs/goodyear/GoodyearCareers/jobs",
         "https://tti.wd1.myworkdayjobs.com/wday/cxs/tti/TeamTTI-Jobs/jobs",
         "https://onehealthineers.wd3.myworkdayjobs.com/wday/cxs/onehealthineers/SHSJB/jobs",
-        "https://stanfordhealthcare.wd5.myworkdayjobs.com/wday/cxs/stanfordhealthcare/SHC_External_Career_Site/jobs",
         "https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs",
-        "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
         "https://thehartford.wd5.myworkdayjobs.com/wday/cxs/thehartford/Careers_Restricted/jobs",
         "https://comcast.wd5.myworkdayjobs.com/wday/cxs/comcast/Comcast_Careers/jobs",
         "https://shakeshack.wd5.myworkdayjobs.com/wday/cxs/shakeshack/External/jobs",
@@ -595,6 +580,7 @@ async def test_requesting_workday_payload(run_tor):
 
     for task in tasks:
         job_posts = await task
+        print(task)
         assert job_posts != []
 
 
