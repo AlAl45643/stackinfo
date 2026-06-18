@@ -63,7 +63,7 @@ services:
       - db
       - fastapi
     volumes:
-      - ${HOME}/src/stackinfo/reports/:/app/reports/
+      - /home/work/src/stackinfo/reports/:/app/reports/
 
 
 volumes:
