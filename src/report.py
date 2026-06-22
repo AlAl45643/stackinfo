@@ -35,9 +35,12 @@ def _get_tech_report(date: dt.date, locations: list[tuple[str, str]]) -> str:
     url = f"http://{container}:80/reports/tech"
     for location in locations:
         city, state = location[0], location[1]
-        report += f"""
+        result = requests.get(f"{url}?date={date}&city={city}&state={state}")
+        result = json.loads(result.text)
+        if result != []:
+            report += f"""
 ## {city}, {state}"""
-        report += """
+            report += """
 <table>
  <thead>
   <tr>
@@ -47,18 +50,16 @@ def _get_tech_report(date: dt.date, locations: list[tuple[str, str]]) -> str:
  </thead>
  <tbody>
 """
-        result = requests.get(f"{url}?date={date}&city={city}&state={state}")
-        result = json.loads(result.text)
-        for tech in result:
-            name = tech[0]
-            count = tech[1]
-            report += f"""
+            for tech in result:
+                name = tech[0]
+                count = tech[1]
+                report += f"""
   <tr>
    <td>{name}</td>
    <td>{count}</td>
   </tr>"""
 
-        report += """
+            report += """
  </tbody>
 </table>
 """
@@ -73,9 +74,14 @@ def _get_stack_report(date: dt.date, locations: list[str]) -> str:
     url = f"http://{container}:80/reports/stack"
     for location in locations:
         city, state = location[0], location[1]
-        report += f"""
+        result = requests.get(
+            f"{url}?date={date}&city={city}&state={state}&percent={75}"
+        )
+        result = json.loads(result.text)
+        if result != []:
+            report += f"""
 ## {city}, {state}"""
-        report += """
+            report += """
 <table>
  <thead>
   <tr>
@@ -85,18 +91,16 @@ def _get_stack_report(date: dt.date, locations: list[str]) -> str:
  </thead>
  <tbody>
 """
-        result = requests.get(f"{url}?date={date}&city={city}&state={state}")
-        result = json.loads(result.text)
-        for tech in result:
-            name = tech[0]
-            count = tech[1]
-            report += f"""
+            for tech in result:
+                name = tech[0]
+                count = tech[1]
+                report += f"""
   <tr>
    <td>{name}</td>
    <td>{count}</td>
   </tr>"""
 
-        report += """
+            report += """
  </tbody>
 </table>
 """
