@@ -4,6 +4,7 @@ Stackinfo is a project that ranks the popularity of technologies and stacks list
 Stackinfo uses Python with asyncio and aiohttp to parse the job-posts, it then stores the results in a PostgreSQL database, exposes the results with a REST API using FastAPI, and it automates the scraping and reporting by using Docker and systemd services.
 * Reports
 Reports are categorized by month, tech, and stack. Tech reports count each keyword listed in a job posting separately, while Stack reports count the keyword group from each posting as one.
+** June 2026
 [[file:reports/tech_report_2026_6.md][June 2026 Techs]]
 [[file:reports/stack_report_2026_6.md][June 2026 Stacks]]
 
