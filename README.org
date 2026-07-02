@@ -5,3 +5,8 @@ Stackinfo uses Python with asyncio and aiohttp to parse the job-posts, it then s
 * Reports
 [[file:reports/tech_report_2026_6.md][June 2026 Techs]]
 [[file:reports/stack_report_2026_6.md][June 2026 Stacks]]
+
+#+BEGIN_EXPORT html
+<a href="./reports/tech_report_2026_6.md">June 2026 Techs</a>
+<a href="./reports/stack_report_2026_6.md">June 2026 Stacks</a>
+#+END_EXPORT html
