@@ -112,10 +112,10 @@ def main(today: dt.date):
     tech_report = _get_tech_report(today, locations)
     stack_report = _get_stack_report(today, locations)
 
-    tech_report_file = open(f"reports/tech_report_{today.year}_{today.month}", "x")
+    tech_report_file = open(f"reports/tech_report_{today.year}_{today.month}.md", "x")
     tech_report_file.write(tech_report)
 
-    stack_report_file = open(f"reports/stack_report_{today.year}_{today.month}", "x")
+    stack_report_file = open(f"reports/stack_report_{today.year}_{today.month}.md", "x")
     stack_report_file.write(stack_report)
 
 

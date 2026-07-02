@@ -73,9 +73,6 @@ async def view_stack_report(
     engine = _create_engine()
     year = date.year
     month = date.month
-    p_date = date - relativedelta(months=1)
-    p_year = p_date.year
-    p_month = p_date.month
     with engine.connect() as conn:
         result = conn.execute(
             text("""WITH aggregate_stacks AS (
@@ -94,8 +91,6 @@ SELECT agg.stack, SUM(stack.count) count
  ORDER BY SUM(stack.count) DESC
 """),
             {
-                "p_year": p_year,
-                "p_month": p_month,
                 "city": city,
                 "state": state,
                 "year": year,
@@ -115,9 +110,6 @@ async def view_tech_report(
     engine = _create_engine()
     year = date.year
     month = date.month
-    p_date = date - relativedelta(months=1)
-    p_year = p_date.year
-    p_month = p_date.month
     with engine.connect() as conn:
         result = conn.execute(
             text("""                                                                                     
@@ -128,8 +120,6 @@ SELECT tech.name, SUM(tech.count) count
  ORDER BY SUM(tech.count) DESC
 """),
             {
-                "p_year": p_year,
-                "p_month": p_month,
                 "city": city,
                 "state": state,
                 "year": year,
