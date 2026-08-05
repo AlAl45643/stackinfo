@@ -409,13 +409,13 @@ class Scrape:
                     if date is not None and self._is_date(job_post, date) is False:
                         continue
 
-                    self.log.info(f'{job_post}')
+                    self.log.debug(f'{job_post}')
                     locations = self._retrieve_locations(job_post, location_list)
-                    self.log.info(f'{locations}')
+                    self.log.debug(f'{locations}')
                     techs = self._retrieve_tech(
                         job_post, sensitive, insensitive, synonyms, parents
                     )
-                    self.log.info(f'{techs}')
+                    self.log.debug(f'{techs}')
                     if techs == []:
                         continue
                     for location in locations:
