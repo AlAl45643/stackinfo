@@ -3,6 +3,7 @@ import asyncio
 import datetime as dt
 import os
 import sys
+import logging
 
 from sqlalchemy import create_engine, select, Engine
 from sqlalchemy.orm import Session
@@ -19,6 +20,8 @@ from sql import (
     WorkdayURLs,
 )
 
+log = logging.getLogger(__name__)
+logging.basicConfig(filename=f'logs/{str(dt.date.today())}.log', encoding='utf-8', level=logging.DEBUG)
 
 def _create_engine() -> Engine:
     user = os.getenv("DATABASE_USERNAME")
@@ -32,7 +35,7 @@ def _create_engine() -> Engine:
 
 
 def _query_scrape_params(
-    engine: Engine,
+        engine: Engine,
 ) -> tuple[
     Sequence[str],
     Sequence[tuple[str, str]],
@@ -67,10 +70,10 @@ def _query_scrape_params(
 
 
 def _export_results(
-    engine: Engine,
-    date: dt.date,
-    techs: dict[tuple[tuple[str, str], str], int],
-    stacks: dict[tuple[tuple[str, str], tuple[str]], int],
+        engine: Engine,
+        date: dt.date,
+        techs: dict[tuple[tuple[str, str], str], int],
+        stacks: dict[tuple[tuple[str, str], tuple[str]], int],
 ) -> None:
     with Session(engine) as session:
         for key, count in techs.items():
@@ -105,17 +108,20 @@ def _export_results(
 
 
 async def _scrape(
-    date: dt.date,
+        date: dt.date,
 ) -> tuple[
     dict[tuple[tuple[str, str], str], int],
     dict[tuple[tuple[str, str], tuple[str]], int],
 ]:
+    log.info('creating engine')
     engine = _create_engine()
 
+    log.info('retrieving parse_workday params')
     workday_urls, locations, sensitive, insensitive, synonyms, parents = (
         _query_scrape_params(engine)
     )
 
+    log.info('creating Scrape class and task')
     scrape = Scrape(asyncio.Semaphore(3))
     task = asyncio.create_task(
         scrape.parse_workday(
@@ -129,15 +135,17 @@ async def _scrape(
         )
     )
 
+    log.info('awaiting scrape.parse_workday task')
     techs, stacks = await task
 
+    log.info('exporting parse_workday tasks results')
     _export_results(engine, date, techs, stacks)
 
     return (techs, stacks)
 
 
 def main(
-    date: dt.date,
+        date: dt.date,
 ) -> tuple[
     dict[tuple[tuple[str, str], str], int],
     dict[tuple[tuple[str, str], tuple[str]], int],

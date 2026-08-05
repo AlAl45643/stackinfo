@@ -9,6 +9,7 @@ import time
 from collections.abc import Sequence
 from json.decoder import JSONDecodeError
 from typing import Literal, Pattern
+import logging
 
 import aiohttp
 from aiohttp_socks import ProxyConnector
@@ -16,6 +17,8 @@ from aiohttp_socks import ProxyConnector
 
 class Scrape:
     timeout = aiohttp.ClientTimeout(total=600)
+    log = logging.getLogger(__name__)
+    logging.basicConfig(filename=f'logs/{str(dt.date.today())}.log', encoding='utf-8', level=logging.DEBUG)
 
     def __init__(self, tor_sem: asyncio.Semaphore):
         self.tor_sem = tor_sem
@@ -271,7 +274,7 @@ class Scrape:
                         job_count = job_sum.get("total", 0)
                         return job_count
         except Exception as e:
-            print(e)
+            self.log.error(str(e))
             return 0
 
     async def _request_job_details(
@@ -296,7 +299,7 @@ class Scrape:
 
                     return job_post
             except ProxyError as e:
-                print(e)
+                self.log.error(str(e))
                 return None
 
     async def _request_job_posts(
@@ -347,7 +350,7 @@ class Scrape:
                             post_details = await post_task
                             job_details.append(post_details)
         except Exception as e:
-            print(e)
+            self.log.error(str(e))
             return job_details
         return job_details
 
@@ -364,11 +367,13 @@ class Scrape:
         dict[tuple[tuple[str, str], str], int],
         dict[tuple[tuple[str, str], tuple[str]], int],
     ]:
+        self.log.info('started scrape_workday.py')
         tech_count = {}
         stack_count = {}
         wday_max_job_request_count = 20
         job_post_tasks = []
         job_count_tasks = []
+        self.log.info('creating tor process')
         tor = subprocess.Popen(
             "tor",
             stdout=open("torstdout", "w+"),
@@ -380,10 +385,12 @@ class Scrape:
         time.sleep(10)
 
         try:
+            self.log.info('creating _request_job_count tasks')
             for uri in urls:
                 task = asyncio.create_task(self._request_job_count(uri))
                 job_count_tasks.append((uri, task))
 
+            self.log.info('processing job_count_tasks tasks')
             for uri, task in job_count_tasks:
                 count = await task
                 for offset in range(0, count, wday_max_job_request_count):
@@ -392,6 +399,7 @@ class Scrape:
                     )
                     job_post_tasks.append(job_post_task)
 
+            self.log.info('processing job_posts_tasks tasks')
             for task in job_post_tasks:
                 job_posts = await task
                 for job_post in job_posts:
@@ -401,10 +409,13 @@ class Scrape:
                     if date is not None and self._is_date(job_post, date) is False:
                         continue
 
+                    self.log.info(f'{job_post}')
                     locations = self._retrieve_locations(job_post, location_list)
+                    self.log.info(f'{locations}')
                     techs = self._retrieve_tech(
                         job_post, sensitive, insensitive, synonyms, parents
                     )
+                    self.log.info(f'{techs}')
                     if techs == []:
                         continue
                     for location in locations:
@@ -420,6 +431,8 @@ class Scrape:
                             stack_count[(location, tuple(sorted(techs)))] = 1
 
         finally:
+            self.log.info('killing tor')
             tor.kill()
 
+        self.log.info('finished scraping workday jobs')
         return (tech_count, stack_count)

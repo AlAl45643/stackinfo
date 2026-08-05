@@ -27,6 +27,8 @@ services:
       - .env
     depends_on:
       - db
+    volumes:
+      - /home/work/src/stackinfo/logs/:/app/logs/
 
   fastapi:
     image: alal45643/stackinfo-fastapi:dev
