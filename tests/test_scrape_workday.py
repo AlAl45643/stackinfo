@@ -538,7 +538,6 @@ async def test_requesting_workday_payload(run_tor):
         "https://redrobin.wd1.myworkdayjobs.com/wday/cxs/redrobin/RedRobin_Careers/jobs",
         "https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs",
         "https://baltimorecity.wd1.myworkdayjobs.com/wday/cxs/baltimorecity/External/jobs",
-        "https://permianres.wd12.myworkdayjobs.com/wday/cxs/permianres/Permian_Resources_Careers/jobs",
         "https://cox.wd1.myworkdayjobs.com/wday/cxs/cox/Cox_External_Career_Site_1/jobs",
         "https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/jobs",
         "https://dowjones.wd1.myworkdayjobs.com/wday/cxs/dowjones/Dow_Jones_Career/jobs",
