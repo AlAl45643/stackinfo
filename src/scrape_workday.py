@@ -435,4 +435,6 @@ class Scrape:
             tor.kill()
 
         self.log.info('finished scraping workday jobs')
+        self.log.info(f'{tech_count}')
+        self.log.info(f'{stack_count}')
         return (tech_count, stack_count)
