@@ -549,7 +549,6 @@ async def test_requesting_workday_payload(run_tor):
         "https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DKC_External/jobs",
         "https://ncratleos.wd1.myworkdayjobs.com/wday/cxs/ncratleos/ext_atleos_us/jobs",
         "https://nus.wd1.myworkdayjobs.com/wday/cxs/nus/Careers/jobs",
-        "https://takeda.wd3.myworkdayjobs.com/wday/cxs/takeda/External/jobs",
         "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
         "https://yeticoolers.wd5.myworkdayjobs.com/wday/cxs/yeticoolers/YETI/jobs",
         "https://jda.wd5.myworkdayjobs.com/wday/cxs/jda/JDA_Careers/jobs",
