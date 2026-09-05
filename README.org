@@ -12,3 +12,6 @@ Reports are categorized by month, tech, and stack. Tech reports count each keywo
 ** July 2026
 [[file:reports/tech_report_2026_7.md][July 2026 Tech Report]]
 [[file:reports/stack_report_2026_7.md][July 2026 Stack Report]]
+** August 2026
+[[file:reports/tech_report_2026_8.md][August 2026 Tech Report]]
+[[file:reports/stack_report_2026_8.md][August 2026 Stack Report]]

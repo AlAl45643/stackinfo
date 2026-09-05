@@ -1,0 +1,44636 @@
+
+# 2026-08
+## columbia, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## savannah, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## tacoma, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## waterloo, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## spring, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>cypress</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow lite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kennesaw, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## arkansas city, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## portage, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## smithfield, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>abap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fayetteville, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>istio</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## roseville, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>surge</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## vallejo, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hannibal, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## peru, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## boca raton, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oak ridge, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## herndon, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## east peoria, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## corpus christi, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## le mars, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## reading, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## strongsville, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oshkosh, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jboss</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## troy, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## ridge, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## boone, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mckinleyville, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## arcata, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## great falls, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## medford, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## beeville, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## gloucester, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cincinnati, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>orc</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>composer</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## petaluma, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## warner robins, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kansas city, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>locust</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## northbrook, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## bluffton, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## southfield, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## onalaska, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## concord, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>locust</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## st. petersburg, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## spokane valley, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## north salt lake, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lodi, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## irving, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>63</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>61</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>58</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>54</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>50</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>40</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>39</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>36</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>34</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>30</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>23</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>21</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>composer</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>bootstrap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>istio</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jboss</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jpa</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>activemq</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webpack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>npm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>linkerd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jest</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jasmine</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>heap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hazelwood, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## williamsburg, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## springfield, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## roanoke, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## coral gables, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## manhattan beach, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>optimizely</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mobile, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## charleston, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## troy, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## portsmouth, new hampshire
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## highland, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## south jordan, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## new smyrna beach, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bellingham, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## middletown, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>newman</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lombard, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## palo alto, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## granbury, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## scranton, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cleveland, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## seabrook, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## aberdeen, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## columbus, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## princeton, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parquet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>yarn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## baytown, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## grafton, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## elmwood park, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sanger, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## miramar beach, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lewisville, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gpg</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## shreveport, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## new baltimore, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cicero, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## virginia beach, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oak park, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## wichita falls, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## middletown, rhode island
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lafayette, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>bitbucket</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## rio rancho, new mexico
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mount laurel, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## arlington, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>trello</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## la mirada, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## wentzville, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## longmeadow, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## deer park, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## overland park, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## jersey city, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nexus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## modesto, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## plainfield, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## santa monica, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kinesis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>Linear</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parquet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>django</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## covington, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## arlington, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pflugerville, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## queens, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## prairie village, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## blacksburg, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## burlington, vermont
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pace, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## wapakoneta, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## inver grove heights, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## agoura hills, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## dubuque, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## burleson, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## laurel, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>json</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>bootstrap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## citrus heights, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## garden city, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## golden valley, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>jira</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fairmont, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## shepherdsville, kentucky
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## chicago, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>55</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>49</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>41</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>33</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>31</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>29</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>25</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>20</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>surge</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>npm</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>parcel</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>Linear</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rabbitmq</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jasmine</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>istio</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hazelcast</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webpack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>django</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>composer</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nuget</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lexington park, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## springfield, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## omaha, nebraska
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jpa</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kinesis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>expo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react native</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## chantilly, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>32</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>29</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>27</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>21</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>21</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>cypress</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jest</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>haproxy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webpack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tcpdump</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nginx</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jasmine</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zephyr</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lexington, kentucky
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## brookfield, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>webpack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>istio</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jasmine</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>npm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lakeville, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## conway, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## south sioux city, nebraska
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## waynesville, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## moscow, idaho
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## riverton, wyoming
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## columbia, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>22</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>21</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## roseville, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## joliet, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## new braunfels, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## monmouth, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## columbus, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## atlanta, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>50</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>38</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>36</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>33</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>31</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>22</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>22</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>istio</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>parquet</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jasmine</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>.net</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>npm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parcel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webpack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bitbucket</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bridgeview, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## yakima, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## santa ana, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## charleston, west virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## leander, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## louisville, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## commerce, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## texarkana, arkansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## archdale, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>locust</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## vicksburg, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oregon, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## fridley, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## new brunswick, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## gainesville, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mint hill, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## yuba city, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## redmond, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kissimmee, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>protobuf</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rollup</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## westland, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## milwaukee, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jpa</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## north ridgeville, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hudson, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## east brunswick, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>newman</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## valparaiso, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fairfield, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## kewanee, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## portland, maine
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>tableau</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## east moline, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## paramus, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## burlington, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## lorton, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## springfield, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## denham springs, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sandy, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## north tonawanda, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hagerstown, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## palm beach gardens, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## el paso, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## opelousas, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## portland, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## tulsa, oklahoma
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## owensboro, kentucky
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pottstown, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## athens, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## morgan city, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## west fargo, north dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## harrisburg, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## liberal, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## bedford, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## peoria, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## elk river, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## doral, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## manor, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## college place, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## arlington, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## charlotte, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>96</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>95</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>72</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>61</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>55</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>51</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>45</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>44</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>41</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>39</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>36</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>29</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>26</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>26</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>23</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>23</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>21</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>21</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>20</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>20</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>20</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>istio</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>composer</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>heap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jasmine</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>linkerd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>locust</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>npm</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nuget</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nginx</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>memcached</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>logstash</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>Linear</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jest</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jboss</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jaeger</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>iis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zipkin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hazelcast</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>django</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>abap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>avro</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webpack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rabbitmq</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parquet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## charlottesville, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>wireshark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## redmond, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## west columbia, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## waxhaw, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cary, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## manchester, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## baraboo, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## horsham, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>Linear</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## ramsey, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## dickinson, north dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## woodland, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## wilsonville, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## desoto, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## weehawken, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pasadena, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## toledo, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## prairieville, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## bridgewater, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## huntsville, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hoffman estates, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## lakewood, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## dickinson, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## san antonio, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>surge</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## encinitas, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## arlington heights, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## troy, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## minnetonka, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## brownsville, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fort lauderdale, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cordova</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## belmont, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pineville, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## burlington, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>4</td>
+  </tr>
+ </tbody>
+</table>
+
+## davenport, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## junction city, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## norwood, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## longmont, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pekin, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## palm beach, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hoover, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## abilene, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## concord, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>golang</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>akamai</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fortuna, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## queen creek, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bismarck, north dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## elk grove village, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## nantucket, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## richmond, kentucky
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## detroit lakes, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## smithfield, rhode island
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>nexus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oakland, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## des plaines, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## worthington, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## brea, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## harleysville, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## flowood, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## tucson, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## montgomeryville, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## parsippany, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## north branch, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## newport news, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## waterbury, connecticut
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## simi valley, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## salt lake city, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>40</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webrtc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bootstrap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## jasper, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## williston, north dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## green river, wyoming
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## aurora, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## league city, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## arvada, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## christiansburg, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>capacitor</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## washington court house, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## gulfport, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## los angeles, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>composer</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>launchdarkly</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>optimizely</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>heap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cedar park, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## sacramento, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## wilson, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## delavan, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fort wayne, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>wireshark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## gurnee, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## chattanooga, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>tableau</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## allentown, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## monroe, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## el monte, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## davis, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## forest lake, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## irvine, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nexus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## jamestown, north dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## scottsboro, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## aransas pass, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## latham, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## austin, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>27</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nginx</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>django</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>influxdb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>Linear</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parcel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rspec</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>slack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sqlite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webrtc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## eunice, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hutto, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## palm desert, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## matthews, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## berkeley heights, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>23</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>22</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>consul</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nginx</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>protobuf</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jpa</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>haproxy</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>istio</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>linkerd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>npm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react native</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>slack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>expo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>yarn</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## louisville, kentucky
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>avro</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>protobuf</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bear, delaware
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## provo, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## taylor, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## brownsville, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## south holland, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## collinsville, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## sebring, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## westford, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## matteson, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## brunswick, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## king of prussia, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>kubernetes</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>newman</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jest</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## harrisonville, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## elkhart, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>homebrew</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## san diego, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>slack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>wireshark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## san jose, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>java</td>
+   <td>27</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>21</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>20</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jest</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cypress</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>django</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>objective-c</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sqlite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jpa</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mocha</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bootstrap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## elizabethton, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## maumee, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lima, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## chippewa falls, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## madison heights, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## marshall, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## brooklyn park, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>java</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>micronaut</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rabbitmq</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>surge</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>influxdb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sequelize</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>activemq</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>clickhouse</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cambridge, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lakeway, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## richmond, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>android</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## petal, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cicero, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## short hills, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>bitbucket</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## south brunswick, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## laurel, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## lancaster, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## garland, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## perryton, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## lafayette, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lewiston, maine
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## chalmette, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## acton, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## timberlake, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## santa clara, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>25</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bazel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>electron</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## blaine, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## westfield, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## menasha, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lake wales, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## clinton, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>delta lake</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## brooklyn, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>notion</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## south bend, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## del rio, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## duluth, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## marshall, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## ogden, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## allen, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>google meet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>haproxy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>logstash</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nginx</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>slack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hampton, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## manhattan, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## uvalde, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## traverse city, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fairview heights, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## chandler, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zipkin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>heap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jaeger</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>logstash</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## castle rock, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## dallas, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>27</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>25</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>wireshark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## honolulu, hawaii
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>logstash</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## calumet city, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## andover, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## royal oak, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## tupelo, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## evanston, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## bend, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## ingleside, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## coral springs, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## raynham, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## west palm beach, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lake st. louis, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## garden city, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## rocky river, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fort myers, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## central point, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## englewood, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## jenison, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>4</td>
+  </tr>
+ </tbody>
+</table>
+
+## fort meade, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vmware</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>logstash</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bee cave, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## malden, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hudson, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## andover, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## nampa, idaho
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## apache junction, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## winter haven, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## martinez, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## largo, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## westwood, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## yankton, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## pleasanton, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## riverside, connecticut
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## franklin park, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bristol, connecticut
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>Linear</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## wilmington, delaware
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>23</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jpa</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## middleton, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## riverview, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## murray, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## west chester, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## takoma park, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## winona, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## st. paul, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## houston, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>cypress</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## scotch plains, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hillsboro, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## merrimack, new hampshire
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## moss point, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## addison, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## adelanto, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## river falls, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>homebrew</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## schaumburg, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fergus falls, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## detroit, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kearns, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## san angelo, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## east point, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## elk grove, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sanford, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## memphis, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## katy, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cheektowaga, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## vernon hills, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## dodge city, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## quincy, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## phoenix, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jasmine</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>slack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mequon, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## marietta, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## raymore, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## clarksville, arkansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## burlington, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## dayton, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## keokuk, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## albertville, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## chestnut ridge, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## union city, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## glenview, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## west valley city, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>slack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>google meet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## derry, new hampshire
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## indianapolis, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nexus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## rochester, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## reston, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>wireshark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tcpdump</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## aurora, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## galveston, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## baltimore, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## chesterfield, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mechanicsburg, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## downers grove, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## raleigh, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pittsburgh, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## east chicago, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>zoom</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## sandwich, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kenner, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## benicia, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## towson, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## norfolk, nebraska
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## apopka, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## red oak, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## live oak, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## st. charles, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## grand prairie, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## grantsville, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## andover, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pierre, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## zion, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## menomonie, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## derby, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## el segundo, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>confluence</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## ottawa, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## rockville, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## monroe, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## greenville, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bronx, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kokomo, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## beaufort, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## eureka, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## norfolk, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tcpdump</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>wireshark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## woodbridge, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## frisco, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kinesis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## saginaw, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fort carson, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## thornton, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## midlothian, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## grants, new mexico
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## boston, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>34</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>23</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>abap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parcel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>launchdarkly</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>heap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>optimizely</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## juneau, alaska
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mansfield, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## addison, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## new albany, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## beavercreek, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## eau claire, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## lafayette, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## bradenton, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## madison, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>webrtc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hendersonville, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## covington, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fremont, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>electron</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pasadena, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## crystal lake, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## geneva, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## la crosse, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## radford, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## brownsburg, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## san luis obispo, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mansfield, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## gaithersburg, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## ann arbor, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kerrville, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## destin, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## portage, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>orc</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## grain valley, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## minneapolis, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>46</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>39</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>28</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>27</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>26</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>25</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>22</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>20</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>Linear</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jboss</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>slack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>composer</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## columbus, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>32</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>27</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>25</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>23</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>23</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>heap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pubsub</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gatling</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zipkin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>logstash</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jaeger</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## santa rosa, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## rice lake, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## la palma, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bloomington, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## edina, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## rensselaer, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## victoria, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## georgetown, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pleasant hill, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## hooksett, new hampshire
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>capacitor</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## midland, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bakersfield, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## evansville, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## saratoga springs, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## spencer, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## flower mound, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## st. george, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mahwah, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## akron, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## elyria, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## socorro, new mexico
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## east longmeadow, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mebane, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## herriman, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## colorado springs, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fargo, north dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## white plains, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## foster city, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>influxdb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hopkins, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jest</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>npm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jasmine</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>istio</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>activemq</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webpack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jpa</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## westminster, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## las vegas, nevada
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## crestview, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## albany, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mcallen, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## taunton, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## denton, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## durham, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## birmingham, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## tampa, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## holmen, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## alexandria, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## stockton, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mishawaka, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>homebrew</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## alexandria, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## alpharetta, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>31</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>29</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>24</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>21</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>21</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>17</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rabbitmq</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>akamai</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bitbucket</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>expo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>iis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react native</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## moorhead, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cameron, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## philadelphia, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>locust</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>iis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>electron</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## burbank, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>Linear</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## alsip, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## arden hills, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## portland, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## escanaba, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mitchell, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## hudson, new hampshire
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kalamazoo, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## dover, delaware
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## santa fe, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## superior, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## fitchburg, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## terre haute, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## conyers, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## morton, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## rancho cordova, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lincoln, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## walnut creek, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## azusa, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## locust grove, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>locust</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## auburn, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## berea, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## brandon, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## bellevue, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>c#</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## council bluffs, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## wesley chapel, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## san clemente, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lincoln, nebraska
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lake forest, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## marlton, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## livonia, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>react</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## haines city, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lake mary, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mason city, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>composer</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## amherst, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## anaheim, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## grants pass, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## port lavaca, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## scottsdale, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## marysville, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hilliard, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fairview park, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## copiague, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## spokane, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## henderson, nevada
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## holly springs, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## secaucus, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>consul</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nomad</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## naples, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## ontario, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## olney, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## auburn hills, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## atoka, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## murfreesboro, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>composer</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cambridge, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## blue island, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## gadsden, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+ </tbody>
+</table>
+
+## dalton, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>yarn</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## coppell, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mclean, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>20</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vite</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>iis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jboss</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>keycloak</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>logstash</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>.net</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sidney, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## hilton head island, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## billerica, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hermiston, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lakeland, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hackensack, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lawton, oklahoma
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## jackson, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## branson, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## danvers, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## freeport, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## beckley, west virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bolingbrook, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## centennial, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## seattle, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## huron, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## van wert, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## newton, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+ </tbody>
+</table>
+
+## coatesville, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## costa mesa, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>slack</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parcel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fairfax, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## plantation, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## santa fe, new mexico
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## baton rouge, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fenton, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oro valley, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## highland park, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## fairhope, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## glen ellyn, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## elkridge, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## valdosta, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## loveland, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## orlando, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kinesis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rabbitmq</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## asheville, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## wauconda, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## timonium, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fort worth, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parcel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## vienna, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## st. louis, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>launchdarkly</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## montgomery, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## stamford, connecticut
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lewisburg, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## augusta, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## falmouth, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## tarrytown, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pocatello, idaho
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## camas, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## walla walla, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oak creek, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pullman, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## buffalo grove, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## fairfield, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## avon lake, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## boulder, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## north andover, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## north olmsted, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## winfield, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mcpherson, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## auburndale, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## grand rapids, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>scala</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sbt</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## silver spring, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## newark, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bitbucket</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>couchbase</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kinesis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## thousand oaks, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kalispell, montana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pearl city, hawaii
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## riverton, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sunnyvale, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rabbitmq</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## tonawanda, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fredericksburg, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## texas city, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## new orleans, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## westerville, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## belleville, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## iselin, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>composer</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jboss</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pahrump, nevada
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## crofton, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## clay, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## celebration, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kinesis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## college station, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>notion</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>arduino</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bitbucket</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## humble, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## west jordan, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## the woodlands, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cypress</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## dallas, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## northampton, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## holland, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>homebrew</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cape girardeau, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## englewood, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>istio</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## smyrna, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## altoona, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## west hollywood, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## hartford, connecticut
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>heap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>launchdarkly</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>optimizely</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## auburn, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## grayslake, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## ithaca, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oxford, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>locust</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## elizabeth, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## california, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## glenshaw, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lisle, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## draper, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## salisbury, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bridgeton, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## glendale, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kinesis</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>memcached</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fort madison, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## bryan, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>delta lake</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## frederick, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## nashville, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>synapse</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## casa grande, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## springfield, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## northfield, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>homebrew</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## gresham, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## carlsbad, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sparta, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## la porte, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## schenectady, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fort mill, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apigee</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## edgewood, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## forest, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## san mateo, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bitbucket</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## la grange, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## bedford, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>surge</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## melbourne, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## san francisco, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>flink</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mockito</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>optimizely</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>akamai</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grpc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>heap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jaeger</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webrtc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zipkin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>launchdarkly</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>logstash</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## high point, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>locust</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## richmond, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lake charles, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## miami, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>surge</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>varnish</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zephyr</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## providence, rhode island
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lemont, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## richardson, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## goshen, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## medina, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## burkburnett, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cheney, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## rock island, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## los lunas, new mexico
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## creve coeur, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## platteville, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## friendswood, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## amarillo, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## ashburn, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>influxdb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sioux falls, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>surge</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## daytona beach, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## burley, idaho
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## warren, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## carroll, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## knoxville, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## chesapeake, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## augusta, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## elgin, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## leesburg, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## wayne, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## vero beach, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## rockport, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## newark, delaware
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## syracuse, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## huntley, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## south houston, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## rome, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>wireshark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## new york, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>100</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>74</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>40</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>31</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>30</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>28</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>24</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>24</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>20</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>15</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>14</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>13</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>delta lake</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>pandas</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>flask</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>Linear</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>django</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>numpy</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>amplitude</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rabbitmq</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cassandra</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kinesis</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring cloud</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bitbucket</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gatling</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hazelcast</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>npm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nuget</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tcpdump</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vue</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>wireshark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## plymouth, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cedar city, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## gallup, new mexico
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bremerton, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cupertino, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cortex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## college park, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tcpdump</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>wireshark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lancaster, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## vancouver, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## laurens, south carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## wichita, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## albuquerque, new mexico
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## summit, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## huntersville, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## moses lake, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## green bay, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## waltham, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## celina, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## longview, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## warsaw, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## wheaton, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## tempe, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>surge</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hadoop</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>abap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## rolling meadows, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## manassas, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>5</td>
+  </tr>
+ </tbody>
+</table>
+
+## apex, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apex</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## everett, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## magna, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## grove city, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## roseburg, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## erie, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pottsville, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## pendleton, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## greenwood village, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## eugene, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## eagle mountain, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kingman, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## wyoming, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>homebrew</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## menlo park, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## gahanna, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fishkill, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## watertown, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hoboken, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redshift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## downey, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kahului, hawaii
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## twin falls, idaho
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## somers point, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## warrenville, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bothell, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>java</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fort collins, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>playwright</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>selenium</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## suffolk, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## crestwood, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## florence, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pequannock, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## temple, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## stafford, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## homewood, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## delaware, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hazlet, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## rutherford, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## metairie, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## niceville, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## decatur, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## elmhurst, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## revere, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hazleton, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>soap</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## washington, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## covington, kentucky
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nexus</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dynamodb</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## east wenatchee, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## elgin, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## janesville, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>delta lake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## little rock, arkansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## verona, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## robstown, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## whitestown, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oakland, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## duncan, oklahoma
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## okemos, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>delta lake</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## asheboro, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>locust</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## washington, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## muncie, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## north smithfield, rhode island
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sunrise, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>jira</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## chester, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lake zurich, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## moberly, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## avon, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## findlay, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## battle creek, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## vandalia, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## plano, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>jira</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mulesoft</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>php</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## shelbyville, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>4</td>
+  </tr>
+ </tbody>
+</table>
+
+## mesa, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>surge</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## highland, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## thomasville, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>locust</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## barrington, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## plymouth, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## galesburg, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## lebanon, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bartow, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## maryville, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## huntington, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## waukesha, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## warren, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## falls, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## goffstown, new hampshire
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hyattsville, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oregon, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## victorville, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hondo, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## webster, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## lexington, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lansing, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cedar hill, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## la plata, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## la vergne, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parcel</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## el dorado, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## springdale, arkansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>18</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## iowa city, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## storm lake, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## port orange, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## beverly hills, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## jacksonville, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>golang</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>artifactory</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## decatur, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mounds view, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>24</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>10</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>scala</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>rancher</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>abap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## newark, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## west des moines, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jboss</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## manchester, new hampshire
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bethesda, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>neo4j</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## folsom, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mashpee, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lehi, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## champaign, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## la marque, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## orland park, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## morton grove, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## south elgin, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## ellicott city, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## ludlow, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## guymon, oklahoma
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## annandale, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fresno, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## north chicago, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## la grande, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## middletown, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## siloam springs, arkansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## culver city, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## long beach, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bowling green, kentucky
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## baker city, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## american fork, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## anderson, indiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## west linn, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kirksville, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## kennewick, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## san lorenzo, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## boise, idaho
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>terraform</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>opensearch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>surge</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>electron</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## marion, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## streator, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## tomah, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## gainesville, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>helm</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sioux city, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## maryville, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cedar rapids, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>delta lake</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## baxter, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## south amboy, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>newman</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## brandon, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## sun city, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## marlborough, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parcel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## washougal, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hayward, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## franklin, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kibana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## belmont, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>css</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## waxahachie, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## westlake, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## fayetteville, arkansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>saltstack</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## holmdel, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>newman</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## oklahoma city, oklahoma
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>snowflake</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## valrico, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## santa barbara, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pleasant grove, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## sterling, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## grandville, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## chicopee, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## tinley park, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## springfield, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>orc</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## norwalk, connecticut
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## matawan, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>newman</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## stow, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## glendale, arizona
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## red bank, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>cloudformation</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ecs</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>eks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bloomington, minnesota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nexus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lancaster, pennsylvania
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## hope, arkansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## appleton, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## millington, tennessee
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bastrop, louisiana
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## lagrange, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## bridgeport, connecticut
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## vacaville, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>cordova</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## jefferson, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>rails</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## san ramon, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>aws</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## algonquin, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## nashua, new hampshire
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## round rock, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>5</td>
+  </tr>
+ </tbody>
+</table>
+
+## lewiston, idaho
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## germantown, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## harrisburg, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>locust</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## beachwood, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## goleta, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytest</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bitbucket</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## vermillion, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## raritan, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>19</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## morrisville, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## east rutherford, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lutz, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## milford, delaware
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## salisbury, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>locust</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## raytown, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## amherst, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>vault</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## richmond, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## wenatchee, washington
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## palatine, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## florence, kentucky
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>vmware</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>nginx</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>orc</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## des moines, iowa
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>jira</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>okta</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ab testing</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>puppet</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jboss</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>windows server</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## warrensburg, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## blue springs, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## eatontown, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>newman</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## wheeling, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## cudahy, wisconsin
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## rochester hills, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## oak lawn, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## brooklyn, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>zephyr</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mssql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## mayfield heights, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>azure</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>mysql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prisma</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>pytorch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>scikit-learn</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lynchburg, virginia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pleasant view, utah
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lawrence, kansas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>android</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kotlin</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cary, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## farmington hills, michigan
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>delta lake</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## carson, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## ormond beach, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lyons, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## milpitas, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>pytorch</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tensorflow</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rust</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## clinton, massachusetts
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## vestavia hills, alabama
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pearl, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## albany, oregon
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## rock springs, wyoming
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>airflow</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## canton, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## celina, ohio
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## alameda, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## naperville, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## denver, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>31</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>25</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>16</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>6</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>zoom</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>soap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>nosql</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>mongodb</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>html</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>fastapi</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ansible</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>css</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>jenkins</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spring boot</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>influxdb</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>homebrew</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>npm</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>parcel</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>dbt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>datadog</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>redis</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>s3</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sass</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>confluence</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>webpack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apex</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bitbucket</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>lambda</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## biloxi, mississippi
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## littleton, colorado
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>node.js</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## marlboro, new jersey
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>newman</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## rapid city, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## sedalia, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## lancaster, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## reno, nevada
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>power bi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>vault</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## brookings, south dakota
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## suwanee, georgia
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>nexus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## chillicothe, missouri
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## deerfield, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>elk</td>
+   <td>2</td>
+  </tr>
+ </tbody>
+</table>
+
+## lexington, north carolina
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>locust</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>3</td>
+  </tr>
+ </tbody>
+</table>
+
+## bowie, maryland
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>apollo</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>graphql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## pensacola, florida
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>python</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>json</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>logstash</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>splunk</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>xml</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## buffalo, new york
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sql</td>
+   <td>12</td>
+  </tr>
+  <tr>
+   <td>python</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>azure</td>
+   <td>11</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>9</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>8</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>ci/cd</td>
+   <td>7</td>
+  </tr>
+  <tr>
+   <td>power bi</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>oracle</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>salesforce</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>4</td>
+  </tr>
+  <tr>
+   <td>typescript</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>aws</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>gcp</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>ldap</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>R</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>shell</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>tableau</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>terraform</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>powershell</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>saml</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>otel</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>databricks</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>java</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>spark</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>c#</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>angular</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>REST</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>gitlab ci</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ruby</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>oauth2</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>objective-c</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>openapi</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>elasticsearch</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postgresql</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>postman</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>docker</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>prometheus</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>tomcat</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>rails</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>bigquery</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>saltstack</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>beam</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>trello</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>snowflake</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>apache</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>swift</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github actions</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>grafana</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>gradle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>hibernate</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>github</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jboss</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>git</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jpa</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>junit</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jwt</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kafka</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kanban</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kong</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>kubernetes</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>maven</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## crowley, texas
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## cranston, rhode island
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>oracle</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sap</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>sql</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
+
+## moline, illinois
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>spark</td>
+   <td>6</td>
+  </tr>
+ </tbody>
+</table>
+
+## torrance, california
+<table>
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Count</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+   <td>sap</td>
+   <td>2</td>
+  </tr>
+  <tr>
+   <td>ios</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>javascript</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>jira</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>react</td>
+   <td>1</td>
+  </tr>
+ </tbody>
+</table>
